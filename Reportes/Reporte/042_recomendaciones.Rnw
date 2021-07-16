@@ -1,0 +1,14 @@
+\chapter{Recomendaciones  }
+\label{chp_recomendaciones}
+
+\begin{enumerate}
+\item 	Los estudios que respalden el cambio de primas deben considerar el mismo horizonte de estudio, para no afectar algún fondo;  en el mismo período extensión.
+\item	Se recomienda promover en el menor tiempo posible una nueva resolución, en la que se entregue al seguro de Invalidez, vejez y muerte una prima que recupere y solvente la reserva del fondo; siempre y cuando este Seguro implemente reformas paramétricas al sistema de pensiones como la modificación de las condiciones de jubilación (edad y número de imposiciones), de la base de cálculo de las pensiones, de los coeficientes de cálculo y las pensiones máximas y mínimas.
+\item	Se recomienda promover en el menor tiempo posible una nueva resolución, en la que se entregue al Seguro General de Salud la prima suficiente para cubrir las prestaciones dispuestas en la Ley a toda la población protegida, siempre y cuando este Seguro cumpla con:
+	Crear el fondo tripartito para enfermedades catastróficas.
+
+Registrar adecuadamente los costos de las atenciones médicas que corresponden a los seguros Social Campesino y Riesgos del Trabajo, y a externos como el MSP, ISSFA, ISSPOL, etc.
+
+Efectúe acciones de cobro por las atenciones médicas a los jubilados y enfermedades catastróficas, a fin de que Estado cumpla con el correspondiente pago.
+
+\end{enumerate}

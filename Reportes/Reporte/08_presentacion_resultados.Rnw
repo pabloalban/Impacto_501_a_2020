@@ -1,0 +1,32 @@
+%---------------------------------------------------------------------------------------------------
+\chapter{Presentación de resultados}
+\label{chp_resultados}
+
+\section{Resultados de la evaluación actuarial}
+\label{chp_valuacionactu:est_apo}
+
+% Se utilizó la tasa de interés actuarial igual a \Sexpr{REP$tasa_act_esc_1}\%, la cual fue aprobada en reunión del Consejo Directivo del IESS el 04 de marzo de 2020, mediante Resolución No. C.D. 596. Todos los escenarios suponen una tasa de crecimiento anual del salario básico unificado igual a 2,53395\%, salario promedio igual a 2,154\% y la tasa de crecimiento de las pensiones en 1,826\%, y el horizonte del estudio es a 40 años, para el período 2019 a 2058.
+
+En la  tabla \ref{tabla_z}, se resumen las principales componentes y resultados del estudio:
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Presentación de resultados, en términos actuariales \\ al 31 de diciembre de 2058}
+\label{tabla_z}
+\begin{tabular}{@{}lrr@{}}
+\toprule
+\multicolumn{3}{c}{Seguro de Invalidez, Vejez y Muerte} \\ \midrule
+Resolución:       & \multicolumn{1}{c}{Aportes (USD)}      & Superávit/Déficit (USD)    \\ \midrule
+No. C.D. 261      & \Sexpr{REP$ing_apo_afi_1_ivm} & \Sexpr{REP$bal_act_esc_1_ivm} \\
+No. C.D. 501      & \Sexpr{REP$ing_apo_afi_2_ivm} & \Sexpr{REP$bal_act_esc_2_ivm}  \\ \midrule
+\multicolumn{3}{c}{\Sexpr{REP$seg_sal}} \\ \midrule
+Resolución:       & \multicolumn{1}{c}{Aportes (USD)}      & Superávit/Déficit (USD)    \\ \midrule
+No. C.D. 261      & \Sexpr{REP$ing_apo_afi_1_sal} & \Sexpr{REP$bal_act_esc_1_sal} \\
+No. C.D. 501      & \Sexpr{REP$ing_apo_afi_2_sal} & \Sexpr{REP$bal_act_esc_2_sal}  \\ \midrule
+\multicolumn{3}{c}{Seguro de Riesgos del Trabajo}       \\ \midrule
+Resolución:       & \multicolumn{1}{c}{Aportes (USD)}      & Superávit/Déficit (USD)    \\ \midrule
+No. C.D. 261      & \Sexpr{REP$ing_apo_afi_1} & \Sexpr{REP$bal_act_esc_1}\\
+No. C.D. 501      & \Sexpr{REP$ing_apo_afi_2} & \Sexpr{REP$bal_act_esc_2} \\ \bottomrule
+\end{tabular}
+\end{table}

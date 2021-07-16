@@ -1,0 +1,92 @@
+%---------------------------------------------------------------------------------------------------
+% template document
+%\documentclass[12pt, a4paper, twoside, openany]{book}
+\documentclass[12pt, a4paper, oneside, openany]{book}
+\input{\Sexpr{REP_style}}
+
+%---------------------------------------------------------------------------------------------------
+%\SetWatermarkText{\Sexpr{REP_watermark}}
+\SetWatermarkText{}
+%\SetWatermarkScale{0.30}
+%\SetWatermarkColor[cmyk]{0, 0, 0, 0.15}
+
+% Bibliografía -------------------------------------------------------------------------------------
+\addbibresource{\Sexpr{REP_bib_lib}}
+\addbibresource{\Sexpr{REP_bib_art}}
+\addbibresource{\Sexpr{REP_bib_ley}}
+
+%---------------------------------------------------------------------------------------------------
+% Inicio del documento
+\begin{document}
+
+%---------------------------------------------------------------------------------------------------
+%\frontmatter
+% Contenidos
+<<cap01, child='01_cobertura.Rnw'>>=
+@
+
+<<cap02, child='02_contenido.Rnw'>>=
+@
+% 
+% %---------------------------------------------------------------------------------------------------
+% % Cuerpo del estudio
+% %\mainmatter
+% 
+<<cap03, child='03_resumen_ejecutivo.Rnw'>>=
+@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+<<cap031, child='03_antecedentes.Rnw'>>=
+@
+
+<<cap032, child='031_alcance.Rnw'>>=
+@
+
+<<cap033, child='032_base_legal.Rnw'>>=
+@
+
+<<cap034, child='033_objetivos.Rnw'>>=
+@
+
+<<cap035, child='04_tasas_aportacion.Rnw'>>=
+@
+
+<<cap036, child='041_comparacion_primas.Rnw'>>=
+@
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%5  
+% <<cap04, child='04_introduccion.Rnw'>>=
+% @
+%  
+% <<cap05, child='05_reglamentacion.Rnw'>>=
+% @
+% 
+% <<cap06, child='06_impacto_financiero.Rnw'>>=
+% @
+%   
+<<cap07, child='07_impacto_actuarial.Rnw'>>=
+@
+<<cap08, child='08_presentacion_resultados.Rnw'>>=
+@
+
+%  
+<<cap09, child='09_conclusion.Rnw'>>=
+@
+
+%<<cap10, child='042_recomendaciones.Rnw'>>=
+%@
+
+<<cap11, child='08_responsabilidad.Rnw'>>=
+@
+
+%<<cap12, child='09_firma.Rnw'>>=
+%@
+
+%---------------------------------------------------------------------------------------------------
+%\backmatter
+
+% Bibliografía
+%\printbibliography
+%\addcontentsline{toc}{chapter}{Bibliografía}
+
+\end{document}

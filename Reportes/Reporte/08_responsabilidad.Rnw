@@ -1,0 +1,22 @@
+\chapter{ Responsabilidad actuarial}
+\label{chp_responsabilidad}
+
+El presente estudio es responsabilidad del Director Actuarial, de Investigación y Estadística.
+
+\vspace{2cm}
+Atentamente,
+\vspace{1cm}
+%--------------------------------------------------------------------------------------------------
+% \begin{figure}[H]
+% 	\centering
+% 		\includegraphics[scale=0.28]{graficos/firma_actuario.png}
+% 	\end{figure}
+% \vspace{-2cm}
+\begin{center}
+\textbf{Ramiro Vega Suárez, Lic.} \\
+Director Actuarial, de Investigación y Estadística \\
+Instituto Ecuatoriano de Seguridad Social
+\end{center}
+
+
+

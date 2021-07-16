@@ -1,0 +1,263 @@
+%---------------------------------------------------------------------------------------------------
+\chapter{Valuación actuarial del \Sexpr{REP_seg}}
+\label{chp_valuacionactu}
+
+En todos los cálculos actuariales, se utilizan las siguientes hipótesis: tasa actuarial, 6,25\%; tasa de crecimiento de los salarios, 2,1540 \%; y tasa de crecimiento del salario básico unificado 2,5339\%. Además, se establece que los gastos administrativos establecidos en la Resolución No. C.D. 101.
+
+%Impacto en IVM-------------------------------------------------------------------------------------
+
+\section[Impacto actuarial en el \Sexpr{REP$seg_ivm}]{Impacto actuarial en el \Sexpr{REP$seg_ivm}}
+\label{chp_valuacion_sal}
+
+La aplicación de la \Sexpr{REP$CD501} significará que el \Sexpr{REP$seg_ivm} reciba, adicionalmente, USD \Sexpr{REP$dif_ing_apo_afi_ivm}, en términos actuariales, por concepto de aporte en los próximos 40 años. Este incremento de ingresos se debe al aumento de la tasa de aportación de 9,74\% (\Sexpr{REP$CD261}) a 10,46\% (\Sexpr{REP$CD501}), a partir del año 2021 en adelante. Los ingresos extras producirán una reducción del déficit actuarial de este seguro de USD \Sexpr{REP$bal_act_esc_1_ivm} a USD \Sexpr{REP$bal_act_esc_2_ivm} al 31 de diciembre de 2058.
+
+
+
+ En las figuras \ref{graf:iess_compa_ing_act_ivm} y \ref{graf:iess_compa_bal_act_ivm}, se muestran la evolución de los aportes patronales y superávit de este seguro, aplicando las Resoluciones No. C.D. 261 y No. C.D. 501. %\Sexpr{REP$CD261} o \Sexpr{REP$CD501}.
+ 
+ \begin{figure}[H]
+\begin{center}
+\caption{Comparación de aportes, en valor presente, según la Resolución No. C.D. 261 y 501}
+\caption*{\Sexpr{REP$seg_ivm}}
+\label{graf:iess_compa_ing_act_ivm}
+\includegraphics[scale=1]{graficos/iess_compa_ing_act_ivm.png}
+\caption*{Elaborado por: DAIE}
+\end{center}
+\end{figure}
+
+\begin{figure}[H]
+\begin{center}
+\caption{Comparación del superávit actuarial, según la Resolución No. C.D. 261 y 501}
+\caption*{\Sexpr{REP$seg_ivm}}
+\label{graf:iess_compa_bal_act_ivm}
+\includegraphics[scale=1]{graficos/iess_compa_bal_act_ivm.png}
+\caption*{Elaborado por: DAIE}
+\end{center}
+\end{figure}
+
+ 
+ En la tabla \ref{tab:ivm_bal_act_vap_escenario_1} se presenta el balance actuarial de este seguro con corte al 31 de diciembre de 2018 y con un horizonte de proyección de 40 años según la tasa de aportación de la \Sexpr{REP$CD261}; en la tabla \ref{tab:ivm_bal_act_vap_escenario_2}, se encuentra su contraparte aplicando la \Sexpr{REP$CD501} con la misma fecha de corte y horizonte de proyección.
+ 
+ \begin{table}[H]
+\centering
+\caption{Balance actuarial con aportación de la \Sexpr{REP$CD261}}
+\label{tab:ivm_bal_act_vap_escenario_1}
+\caption*{\textbf{Instituto Ecuatoriano de Seguridad Social}}
+\caption*{\textbf{Balance actuarial del \Sexpr{REP$seg_ivm}}}
+\caption*{Fecha de valuación: al \Sexpr{REP_fec_fin}}
+{\fontsize{9}{11}\selectfont
+%\scalebox{0.8}{
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lr}
+\toprule
+Componente:	& Valor (USD) \\
+\midrule
+\multicolumn{2}{c}{\textbf{Activo actuarial}} \\
+\hline
+\input{tablas/ivm_bal_act_vap_escenario_1.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{Elaborado por: DAIE}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{Balance actuarial con aportación de la \Sexpr{REP$CD501}}
+\label{tab:ivm_bal_act_vap_escenario_2}
+\caption*{\textbf{Instituto Ecuatoriano de Seguridad Social}}
+\caption*{\textbf{Balance actuarial del \Sexpr{REP$seg_ivm}}}
+\caption*{Fecha de valuación: al \Sexpr{REP_fec_fin}}
+{\fontsize{9}{11}\selectfont
+%\scalebox{0.8}{
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lr}
+\toprule
+Componente:	& Valor (USD) \\
+\midrule
+\multicolumn{2}{c}{\textbf{Activo actuarial}} \\
+\hline
+\input{tablas/ivm_bal_act_vap_escenario_2.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{Elaborado por: DAIE}
+\end{table}
+ 
+ 
+
+
+%Impacto en Salud-----------------------------------------------------------------------------------
+
+\section[Impacto actuarial en el \Sexpr{REP$seg_sal}]{Impacto actuarial en el \Sexpr{REP$seg_sal}}
+\label{chp_valuacion_sal}
+
+La aplicación de la \Sexpr{REP$CD501} significará que el \Sexpr{REP$seg_sal} deje de percibir USD \Sexpr{REP$dif_ing_apo_afi_sal}, en términos actuariales, por concepto de aporte en los próximos 40 años. Esta reducción en la aportación se debe a la reducción de la tasa de aportación de 5,71\% (\Sexpr{REP$CD261}) a 5,16\% (\Sexpr{REP$CD501}), a partir del año 2021 en adelante. La reducción de ingresos producirá un crecimiento del déficit actuarial de este seguro de USD \Sexpr{REP$bal_act_esc_1_sal} a USD \Sexpr{REP$bal_act_esc_2_sal} al 31 de diciembre de 2058.
+
+En la tabla \ref{tab:sal_bal_act_vap_escenario_1} se presenta el balance actuarial de este seguro según la tasa de aportación de la \Sexpr{REP$CD261}; en la tabla \ref{tab:sal_bal_act_vap_escenario_2}, se encuentra su contraparte aplicando la \Sexpr{REP$CD501}.
+
+ En las figuras \ref{graf:iess_compa_ing_act_sal} y \ref{graf:iess_compa_bal_act_sal}, se muestran la evolución de los aportes y superávit de este seguro, aplicando las \Sexpr{REP$CD261} y \Sexpr{REP$CD501}.
+
+
+\clearpage
+\vspace*{\fill}
+ \begin{table}[H]
+\centering
+\caption{Balance actuarial con aportación de la \Sexpr{REP$CD261}}
+\label{tab:sal_bal_act_vap_escenario_1}
+\caption*{\textbf{Instituto Ecuatoriano de Seguridad Social}}
+\caption*{\textbf{Balance actuarial del \Sexpr{REP$seg_sal}}}
+\caption*{Fecha de valuación: al \Sexpr{REP_fec_fin}}
+{\fontsize{9}{11}\selectfont
+%\scalebox{0.8}{
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lr}
+\toprule
+Componente:	& Valor (USD) \\
+\midrule
+\multicolumn{2}{c}{\textbf{Activo actuarial}} \\
+\hline
+\input{tablas/sal_bal_act_vap_escenario_1.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{Elaborado por: DAIE}
+\end{table}
+\vspace*{\fill}
+\begin{table}[H]
+\centering
+\caption{Balance actuarial con aportación de la \Sexpr{REP$CD501}}
+\label{tab:sal_bal_act_vap_escenario_2}
+\caption*{\textbf{Instituto Ecuatoriano de Seguridad Social}}
+\caption*{\textbf{Balance actuarial del \Sexpr{REP$seg_sal}}}
+\caption*{Fecha de valuación: al \Sexpr{REP_fec_fin}}
+{\fontsize{9}{11}\selectfont
+%\scalebox{0.8}{
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lr}
+\toprule
+Componente:	& Valor (USD) \\
+\midrule
+\multicolumn{2}{c}{\textbf{Activo actuarial}} \\
+\hline
+\input{tablas/sal_bal_act_vap_escenario_2.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{Elaborado por: DAIE}
+\end{table}
+ \vspace*{\fill}
+ 
+% \clearpage
+% \vspace*{\fill}
+ 
+ \begin{figure}[H]
+\begin{center}
+\caption{Comparación de aportes, en valor presente, según la Resolución No. C.D. 261 y 501}
+\caption*{\Sexpr{REP$seg_sal}}
+\label{graf:iess_compa_ing_act_sal}
+\includegraphics[scale=1]{graficos/iess_compa_ing_act_sal.png}
+\caption*{Elaborado por: DAIE}
+\end{center}
+\end{figure}
+\vspace*{\fill}
+\begin{figure}[H]
+\begin{center}
+\caption{Comparación del superávit actuarial, según la Resolución No. C.D. 261 y 501}
+\caption*{\Sexpr{REP$seg_sal}}
+\label{graf:iess_compa_bal_act_sal}
+\includegraphics[scale=1]{graficos/iess_compa_bal_act_sal.png}
+\caption*{Elaborado por: DAIE}
+\end{center}
+\end{figure}
+\vspace*{\fill}
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section[Impacto actuarial en el \Sexpr{REP$seg_rt}]{Impacto actuarial en el \Sexpr{REP$seg_rt}}
+\label{chp_valuacion_rt}
+
+La aplicación de la \Sexpr{REP$CD501} significará que el \Sexpr{REP$seg_rt} no reciba USD \Sexpr{REP$dif_ing_apo_afi}, en términos actuariales, por concepto de aporte patronal en los próximos 40 años. Esta falta de ingreso producirá una reducción del superávit actuarial de este seguro de USD \Sexpr{REP$bal_act_esc_1} a USD \Sexpr{REP$bal_act_esc_2}.
+
+En la tabla \ref{tab:rt_bal_act_vap_escenario_1} se presenta el balance actuarial de este seguro según la tasa de aportación de la \Sexpr{REP$CD261}; en cambio, en la tabla \ref{tab:rt_bal_act_vap_escenario_2}, se encuentra su contraparte aplicando la \Sexpr{REP$CD501}.
+
+En las figuras \ref{graf:iess_compa_ing_act_rtr} y \ref{graf:iess_compa_bal_act_rtr}, se muestran la evolución de los aportes y superávit de este seguro, aplicando las Resoluciones No. C.D. 261 y No. C.D. 501.
+
+\vspace*{\fill}
+
+\begin{table}[H]
+\centering
+\caption{Balance actuarial con aportación de la \Sexpr{REP$CD261}}
+\label{tab:rt_bal_act_vap_escenario_1}
+\caption*{\textbf{Instituto Ecuatoriano de Seguridad Social}}
+\caption*{\textbf{Balance actuarial del \Sexpr{REP$seg_rt}}}
+\caption*{Fecha de valuación: al \Sexpr{REP_fec_fin}}
+{\fontsize{9}{11}\selectfont
+%\scalebox{0.8}{
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lr}
+\toprule
+Componente:	& Valor (USD) \\
+\midrule
+\multicolumn{2}{c}{\textbf{Activo actuarial}} \\
+\hline
+\input{tablas/rt_bal_act_vap_escenario_1.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{Elaborado por: DAIE}
+\end{table}
+\vspace*{\fill}
+
+
+\clearpage
+\vspace{2cm}
+\begin{table}[H]
+\centering
+\caption{Balance actuarial con aportación de la \Sexpr{REP$CD501}}
+\label{tab:rt_bal_act_vap_escenario_2}
+\caption*{\textbf{Instituto Ecuatoriano de Seguridad Social}}
+\caption*{\textbf{Balance actuarial del \Sexpr{REP$seg_rt}}}
+\caption*{Fecha de valuación: al \Sexpr{REP_fec_fin}}
+{\fontsize{9}{11}\selectfont
+%\scalebox{0.8}{
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lr}
+\toprule
+Componente:	& Valor (USD) \\
+\midrule
+\multicolumn{2}{c}{\textbf{Activo actuarial}} \\
+\hline
+\input{tablas/rt_bal_act_vap_escenario_2.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{Elaborado por: DAIE}
+\end{table}
+\vspace*{\fill}
+\begin{figure}[H]
+\begin{center}
+\caption{Comparación de aportes, en valor presente, según la Resolución No. C.D. 261 y 501}
+\caption*{Seguro General de Riesgos del Trabajo}
+\label{graf:iess_compa_ing_act_rtr}
+\includegraphics[scale=1]{graficos/iess_compa_ing_act_rtr.png}
+\caption*{Elaborado por: DAIE}
+\end{center}
+\end{figure}
+\clearpage
+
+\begin{figure}[H]
+\begin{center}
+\caption{Comparación del superávit actuarial, según la Resolución No. C.D. 261 y 501}
+\caption*{Seguro General de Riesgos del Trabajo}
+\label{graf:iess_compa_bal_act_rtr}
+\includegraphics[scale=1]{graficos/iess_compa_bal_act_rtr.png}
+\caption*{Elaborado por: DAIE}
+\end{center}
+\end{figure}
+
+
+
+
+

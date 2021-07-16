@@ -1,0 +1,692 @@
+\chapter{Tasas de aportación }
+\label{chp_tasaaportacion}
+
+De conformidad con los artículos 11 y 118 de la Ley de Seguridad Social \cite{LeySS}, se determina
+que para el cálculo y la recaudación de las aportaciones personales y patronales y demás contribuciones
+a los seguros, se aplicarán las normas sobre la materia gravada y 
+la base presuntiva de contribución. 
+
+Se considera materia gravada a todo el ingreso susceptible de apreciación pecuniaria percibido por 
+la persona afiliada; y, de acuerdo a lo determinado en el artículo 13 de la Ley supra referida para 
+los afiliados sin relación de dependencia cuyo ingreso realmente percibido sea de difícil determinación,
+el IESS definirá anualmente, para cada una de las categorías especiales más relevantes en el mercado
+de trabajo, una base presuntiva de aportación (BPA) que expresará, en múltiplos o submúltiplos del 
+sueldo o salario mínimo de aportación al SGO, la cuantía de la materia gravada. 
+
+El Consejo Directivo del Instituto Ecuatoriano de Seguridad Social a través de la Resolución No. C.D.
+501 de 13 de noviembre de 2015, consolidó las tablas de aportación, la misma que fue reformada por 
+la Resolución No. C.D. 515 de 30 de marzo de 2016.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Los porcentajes de cotización de los aportes para el
+Seguro IVM, según las tablas siguientes 
+\ref{tab:apo_2015_2016ivm},
+\ref{tab:apo_2017ivm},
+\ref{tab:apo_2018ivm},
+\ref{tab:apo_2019ivm},
+\ref{tab:apo_2020ivm} y
+\ref{tab:apo_2021ivm}.
+
+En todas las tablas indicadas, el 0,10\% que dispone la Disposición Transitoria Quinta de la
+Resolución No. C.D. 467 de 20 de marzo de 2014 (Para dar cumplimiento a la Ley Orgánica de 
+Discapacidades) no se encuentran considerados en el porcentaje de cotización del Seguro IVM.
+
+\vspace{\fill}
+\begin{table}[H]
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (noviembre 2015 – diciembre 2016)}
+\label{tab:apo_2015_2016ivm}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & 
+  \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia, así como los miembros del
+  clero secular 
+  & 5,76 & 0,10 & 5,86 \\ 
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  & 7,76 & 0,10 & 7,86 \\ 
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 5,76 & 0,10 & 5,86 \\ 
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  & 5,76 & 0,10 & 5,86 \\ 
+  \midrule
+  De los trabajadores de la industria azucarera  
+  & 11,52 & 0,20 & 11,72 \\ 
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior 
+  & 5,86 &   & 5,86 \\ 
+  \midrule
+  Financiamiento parcial de la decimotercera y decimocuarta pensiones y del auxilio de funerales 
+  por parte de los pensionistas & 2,76 &   & 2,76 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Fuente: Resolución No. C.D. 501, C.D. 515 \\
+Elaborado: DAIE}
+  \end{table}
+\vspace{\fill}
+
+
+
+
+
+
+
+\begin{table}[H]
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (Año 2017)}
+\label{tab:apo_2017ivm}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & 
+  \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia, así como los miembros del
+  clero secular 
+  & 6,64 & 0,16	& 6,80 \\ 
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  & 8,64 & 0,16 & 8,80 \\
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 6,64 & 0,16 & 6,80 \\
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  & 6,64 & 0,16 & 6,80 \\
+  \midrule
+  De los trabajadores de la industria azucarera  
+  & 13,28 & 0,32 & 13,60  \\
+    \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior 
+  & 6,80 &  & 6,80 \\
+  \midrule
+  Financiamiento parcial de la decimotercera y decimocuarta pensiones y del auxilio de funerales 
+  por parte de los pensionistas & 2,76 &  & 2,76 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Fuente: Resolución No. C.D. 501, C.D. 515 \\
+Elaborado: DAIE}
+\end{table}
+
+
+
+
+
+
+\begin{table}[H]
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (Año 2018)}
+\label{tab:apo_2018ivm}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia, así como los miembros del
+  clero secular 
+  & 6,64 & 1,02 & 7,66 \\
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  & 8,64 & 1,02 & 9,66 \\
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 6,64 & 1,02 & 7,66 \\
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  & 6,64 & 1,02 & 7,66 \\
+  \midrule
+  De los trabajadores de la industria azucarera  
+  & 13,28 & 2,04 & 15,32 \\
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior 
+  & 7,66 &  & 7,66 \\
+  \midrule
+  Financiamiento parcial de la decimotercera y decimocuarta pensiones y del auxilio de funerales por
+  parte de los pensionistas 
+  & 2,76 &  & 2,76 \\ 
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Fuente: Resolución No. C.D. 501, C.D. 515 \\
+Elaborado: DAIE}
+\end{table}
+
+
+
+
+\begin{table}[H]
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (Año 2019)}
+\label{tab:apo_2019ivm}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & 
+  \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia, así como los miembros del
+  clero secular 
+  & 6,64 & 2,22 & 8,86 \\
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  & 8,64 & 2,22 & 10,86 \\
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 6,64 & 2,22 & 8,86 \\
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  & 6,64 & 2,22 & 8,86 \\
+  \midrule
+  De los trabajadores de la industria azucarera  
+  & 13,28 & 4,44 & 17,72 \\
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior 
+  & 8,86 &  & 8,86 \\
+  \midrule
+  Financiamiento parcial de la decimotercera y decimocuarta pensiones y del auxilio de funerales
+  por parte de los pensionistas 
+  & 2,76 &  & 2,76 \\ 
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Fuente: Resolución No. C.D. 501, C.D. 515 \\
+Elaborado: DAIE}
+\end{table}
+
+
+\begin{table}[H]
+\centering
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (Año 2020)}
+\label{tab:apo_2020ivm}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & 
+  \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia, así como los miembros del
+  clero secular 
+  & 6,64 & 3,22 & 9,86 \\
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  & 8,64 & 3,22 & 11,86 \\
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 6,64 & 3,22 & 9,86 \\
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  & 6,64 & 3,22 & 9,86 \\
+  \midrule
+  De los trabajadores de la industria azucarera  
+  & 13,28 & 6,44 & 19,72 \\
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior 
+  & 9,86 &  & 9,86 \\
+  \midrule
+  Financiamiento parcial de la decimotercera y decimocuarta pensiones y del auxilio de funerales 
+  por parte de los pensionistas  & 2,76 &  & 2,76 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Fuente: Resolución No. C.D. 501, C.D. 515 \\
+Elaborado: DAIE}
+\end{table}
+
+
+
+
+\begin{table}[H]
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (Año 2021 y en adelante)}
+\label{tab:apo_2021ivm}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & 
+  \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia, así como los miembros del
+  clero secular 
+  & 6,64 & 3,82 & 10,46 \\
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  & 8,64 & 3,82 & 12,46 \\
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 6,64 & 3,82 & 10,46 \\
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  & 6,64 & 3,82 & 10,46 \\
+  \midrule
+  De los trabajadores de la industria azucarera  
+  & 13,28 & 7,64 & 20,92 \\
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior 
+  & 10,46 &  & 10,46 \\
+  \midrule
+  Financiamiento parcial de la decimotercera y decimocuarta pensiones y del auxilio de funerales
+  por parte de los pensionistas & 2,76 &  & 2,76 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Fuente: Resolución No. C.D. 501, C.D. 515 \\
+Elaborado: DAIE}
+\end{table}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Los aportes para el Seguro 
+de Salud, según se detalla en las tablas No. \ref{tab:apo_2015_2016}, \ref{tab:apo_2017}, \ref{tab:apo_2018}, \ref{tab:apo_2019}, \ref{tab:apo_2020}, \ref{tab:apo_2021}.
+
+\begin{table}[H]
+\begin{center}
+%\captionsetup{justification=centering}
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (noviembre 2015 – diciembre
+2016)}
+\label{tab:apo_2015_2016}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \centering \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & 
+  \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia 
+  & 0,88 & 9,06 & 9,94 \\ 
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  & 0,88 & 9,06 & 9,94 \\ 
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 2,88 & 7,06 & 9,94 \\ 
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  & 0,88 & 7,06 & 7,94 \\ 
+  \midrule
+  De los trabajadores de la industria azucarera  
+  & 1,76 & 18,12 & 19,88 \\ 
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior, miembros del clero secular
+  & 9,94 &   & 9,94 \\ 
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Elaborado: DAIE.}
+  \end{center}
+\end{table}
+\vspace{\fill}
+
+\begin{table}[H]
+\begin{center}
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (Año 2017)}
+\label{tab:apo_2017}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \centering\textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & 
+  \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia 
+  &  & 9,00	& 9,00 \\ 
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  &  & 9,00 & 9,00 \\
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 2,00 & 7,00 & 9,00 \\
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  &  & 7,00 & 7,00 \\
+  \midrule
+  De los trabajadores de la industria azucarera  
+  &  & 18,00 & 18,00  \\
+    \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior, miembros del clero secular
+  & 9,00 &  & 9,00 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Elaborado: DAIE.}
+\end{center}
+\end{table}
+
+
+\begin{table}[H]
+\begin{center}
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (Año 2018)}
+\label{tab:apo_2018}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \centering\textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia 
+  &  & 8,14 & 8,14 \\
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  &  & 8,14 & 8,14 \\
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 2,00 & 6,14 & 8,14 \\
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  &  & 6,14 & 6,14 \\
+  \midrule
+  De los trabajadores de la industria azucarera  
+  &  & 16,28 & 16,28 \\
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior, miembros del clero secular
+  & 8,14 &  & 8,14 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+
+\begin{table}[H]
+\begin{center}
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (Año 2019)}
+\label{tab:apo_2019}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \centering\textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & 
+  \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia 
+  &  & 6,94 & 6,94 \\
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  &  & 6,94 & 6,94 \\
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 2,00 & 4,94 & 6,94 \\
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  & 4 & 4,94 & 4,94 \\
+  \midrule
+  De los trabajadores de la industria azucarera  
+  &  & 13,88 & 13,88 \\
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior, miembros del clero secular
+  & 6,94 &  & 6,94 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+
+\begin{table}[H]
+\centering
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (Año 2020)}
+\label{tab:apo_2020}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \centering\textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & 
+  \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia 
+  &  & 5,94 & 5,94 \\
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  &  & 5,94 & 5,94 \\
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 2,0 & 3,94 & 5,94 \\
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  &  & 3,94 & 3,94 \\
+  \midrule
+  De los trabajadores de la industria azucarera  
+  &  & 11,88 & 11,88 \\
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior, miembros del clero secular
+  & 5,94 &  & 5,94 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Elaborado: DAIE.}
+\end{table}
+
+
+\begin{table}[H]
+\begin{center}
+\caption{Resoluciones No. C.D. 501 y C.D. 515 (Año 2021 y en adelante)}
+\label{tab:apo_2021}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \centering\textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & 
+  \textbf{\% Total} \\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia 
+  &  & 5,16 & 5,16 \\
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles 
+  &  & 5,16 & 5,16 \\
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el 
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares 
+  & 2,00 & 3,16 & 5,16 \\
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero 
+  &  & 3,16 & 3,16 \\
+  \midrule
+  De los trabajadores de la industria azucarera  
+  &  & 10,32 & 10,32 \\
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios 
+  ecuatorianos residentes en el exterior, miembros del clero secular
+  & 5,16 &  & 5,16 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+% Para el trabajador a tiempo parcial que no sea al mismo tiempo trabajador a tiempo completo, conforme
+% a la Disposición Final Quinta de la \legalcite{ResIESS_CD501}, la aportación será de la siguiente manera:
+% 
+% \begin{displayquote}
+% 
+% a.- El 4,41 de aportación para financiar las prestaciones de salud por enfermedad y maternidad, 
+% se realizarán al menos sobre el salario básico unificado mínimo según la categoría ocupacional al
+% que corresponda el trabajador.
+% 
+% 
+% b.- La aportación para las prestaciones de subsidio de enfermedad y maternidad (1,30\%) y las 
+% que correspondan a los seguros de Invalidez, Vejez y Muerte, que incluye auxilio de funerales, riesgos
+% de trabajo, cesantía, seguro social campesino y gasto de administración, se realizarán sobre el salario
+% real del trabajador.
+% 
+% \end{displayquote}
+
+% Por otra parte, la Resolución Nro. C.D. 334 de 20 de octubre de 2010, reformada por la Resolución 
+% No. C.D. 357 de 9 de febrero de 2011, en concordancia con el  artículo 3 y la Disposición Final Sexta
+% de la Resolución No. C.D. 501 de 13 de noviembre de 2015, determinó los porcentajes para la extensión 
+% de la cobertura de servicios de salud a favor del cónyuge o conviviente con derecho e hijos menores 
+% de edad, los cuales se encuentran detallados en la tabla \ref{tab:aporexten}. 
+% 
+% \begin{table}[H]
+% \begin{center}
+% \caption{Porcentaje de aportación para extensión de cobertura de salud}
+% \label{tab:aporexten}
+% {\fontsize{10}{12}\selectfont
+% \begin{tabular}{l p{4cm}p{4cm}}
+%   \toprule
+%   \multicolumn{1}{c}{\textbf{Concepto}} &\multicolumn{1}{c}{\textbf{beneficiario}} & 
+%   \multicolumn{1}{c}{\textbf{\% aportación}} \\ 
+%   \midrule
+%   
+%  \multirow{3}{*}{\textbf{Extensión de cobertura de salud}} & 
+%   Cónyuge o conviviente con derecho del afiliado &
+%   3,41\% (Sobre la materia gravada y adicional a la prima de salud del afiliado).\\ \cmidrule{2-3} 
+%   & Cónyuge o conviviente de los pensionistas de invalidez y vejez del seguro general y los pensionistas
+%   de incapacidad permanente total o absoluta de riesgos del trabajo & 4,15\% 
+%   (De su pensión o renta mensual).\\ \bottomrule
+%   \end{tabular}
+% \caption*{Elaborado: DAIE}
+% }
+% \end{center}
+% \end{table}
+% 
+% La Disposición General Segunda de la Resolución No. C.D. 357 de 9 de febrero de 2011, en concordancia
+% con el artículo 3 de la Resolución No. C.D. 501 de 13 de noviembre de 2015, establece:
+% 
+% \begin{displayquote}
+% SEGUNDA.- Los pensionistas de invalidez y vejez del seguro general y los pensionistas de incapacidad
+% permanente total o absoluta de riesgos del trabajo, podrán acceder a la atención de salud de su o sus
+% hijos menores de (18) años de edad, con el financiamiento del 3,41\% de su pensión o renta mensual 
+% por la protección de salud, de uno o más hijos menores de (18) años de edad, previa solicitud al IESS. 
+% \end{displayquote}
+% 
+% Adicionalmente, para generar derecho a las prestaciones de enfermedad, a excepción de maternidad, 
+% las beneficiarias y beneficiarios de pensiones de viudez, originadas en el seguro de muerte y en el 
+% seguro de riesgos del trabajo, aportarán el 4,15\% de su pensión unificada. (Inciso segundo del 
+% artículo 3 de la Resolución No. C.D. 501 de 13 de noviembre de 2015). 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Los porcentajes de cotización de los aportes para el SGRT, constan en las tabla \ref{tab:apo_2015_2020} y tabla \ref{tab:apo_2021_adelante}.
+ 
+\begin{table}[H]
+\begin{center}
+\caption{Resoluciones No. C.D. 501 octubre 2015 -  diciembre 2020}
+\label{tab:apo_2015_2020}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \centering \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & \textbf{\% Total}\\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia, así como los miembros del clero secular &  & 0,20 & 0,20\\ 
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas descentralizadas, registradores de la propiedad y registradores mercantiles &  & 0,20 & 0,20\\ 
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en forma de aranceles o similares &  & 0,20 & 0,20\\ 
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero &  & 0,20 & 0,20\\ 
+  \midrule
+  De los trabajadores de la industria azucarera &  & 0,40 & 0,40\\ 
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios ecuatorianos residentes en el exterior & 0,20 &  & 0,20 \\ 
+  \midrule
+  Financiamiento parcial de la decimotercera y decimocuarta pensiones y del auxilio de funerales por parte de los pensionistas & 2,76 &  & 2,76\\
+\bottomrule
+\end{tabular}
+  }
+  \caption*{\scriptsize Fuente: Resolución C.D. 501\\
+Elaborado: DAIE}
+  \end{center}
+\end{table}
+
+
+\begin{table}[H]
+\begin{center}
+\caption{Resoluciones No. C.D. 501; Año 2021 en adelante}
+\label{tab:apo_2021_adelante}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \centering \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & \textbf{\% Total}\\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia, así como los miembros del clero secular &  & 0,38 & 0,38\\ 
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas descentralizadas, registradores de la propiedad y registradores mercantiles &  & 0,38 & 0,38 \\ 
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en forma de aranceles o similares &  & 0,38 & 0,38\\ 
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero &  & 0,38 & 0,38\\ 
+  \midrule
+  De los trabajadores de la industria azucarera &  & 0,76 & 0,76 \\ 
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios ecuatorianos residentes en el exterior & 0,38 &  & 0,38 \\ 
+  \midrule
+  Financiamiento parcial de la decimotercera y decimocuarta pensiones y del auxilio de funerales por parte de los pensionistas & 2,76 &  & 2,76 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Fuente: Resolución C.D. 501\\
+Elaborado: DAIE}
+  \end{center}
+\end{table}
+
+
+

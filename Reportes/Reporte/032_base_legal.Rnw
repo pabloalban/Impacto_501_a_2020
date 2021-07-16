@@ -1,0 +1,37 @@
+\chapter{Base legal}
+\label{chp_alcance}
+
+\textbf{ Constitución de la República del Ecuador}
+
+\textbf{Art. 3.-} Son deberes primordiales del Estado: 
+1.	Garantizar sin discriminación alguna el efectivo goce de los derechos establecidos en la Constitución y en los instrumentos internacionales, en particular la educación, la salud, la alimentación, la seguridad social […].
+
+\textbf{Art. 368.-} El sistema de seguridad social comprenderá las entidades públicas, normas, políticas, recursos, servicios y prestaciones de seguridad social, y funcionará con base en criterios de sostenibilidad, eficiencia, celeridad y transparencia. El Estado normará, regulará y controlará las actividades relacionadas con la seguridad social. 
+
+\textbf{Art. 370.-} El Instituto Ecuatoriano de Seguridad Social, entidad autónoma regulada por la ley, será responsable de la prestación de las contingencias del seguro universal obligatorio a sus afiliados […]. 
+
+\textbf{Art. 371.-} Las prestaciones a la seguridad social se financiarán con el aporte de las personas aseguradas en relación de dependencia y de sus empleadoras o empleadores; con los aportes de las personas independientes aseguradas; con los aportes voluntarios de las ecuatorianas y ecuatorianos domiciliados en el exterior; y con los aportes y contribuciones del Estado […].
+
+\textbf{ Ley de Seguridad Social}
+
+\textbf{Art. 4.-} RECURSOS DEL SEGURO GENERAL OBLIGATORIO: Las prestaciones del Seguro General Obligatorio se financiarán con los siguientes recursos:
+
+a.	La aportación individual obligatoria de los afiliados, para cada seguro; 
+b.	La aportación patronal obligatoria de los empleadores, privados y públicos, para cada seguro, cuando los afiliados sean trabajadores sujetos al Código del Trabajo; 
+c.	La aportación patronal obligatoria de los empleadores públicos, para cada seguro, […].
+
+\textbf{Art. 6.- REGULACIÓN DE LAS CONTRIBUCIONES Y LAS PRESTACIONES.-} El Reglamento General de esta Ley definirá, para cada clase de riesgos, las coberturas y exclusiones de cada una de las contingencias amparadas por el Seguro General Obligatorio, los montos de los beneficios, mínimos y máximos, y los porcentajes de aportación sobre la materia gravada, con sujeción a los siguientes criterios: 
+g. Se optimizará el porcentaje de contribución a cada seguro, de manera que el costo total de los riesgos asegurados no grave indebidamente al afiliado y al empleador; […].
+
+\textbf{Art. 15.- CALCULO DE APORTACIONES.-} Las aportaciones obligatorias, individual y patronal del trabajador en relación de dependencia, se calcularán sobre la materia gravada, con sujeción a los resultados de los estudios actuariales independientes contratados por el IESS. 
+
+La aportación individual obligatoria del trabajador autónomo, el profesional en libre ejercicio, el patrono o socio de un negocio, el dueño de una empresa unipersonal, el menor trabajador independiente, la persona que realiza trabajo no remunerado del hogar, y los demás asegurados obligados al régimen del Seguro Social Obligatorio en virtud de leyes y decretos especiales, se calculará sobre la Base Presuntiva de Aportación (BPA), definida en el artículo 13 de esta Ley, en los porcentajes señalados en esta Ley y su ulterior variación periódica, con sujeción a los resultados de los estudios actuariales independientes, contratados por el IESS, que tomarán en cuenta la situación socioeconómica de la persona afiliada, la naturaleza de las contingencias y los índices de siniestralidad de cada riesgo protegido. 
+
+La aportación individual del beneficiario de montepío por viudez para financiar la atención de enfermedad y maternidad se calculará sobre la pensión promedio de este grupo de beneficiarios, en los porcentajes que determinará el Reglamento General de esta Ley y su ulterior variación periódica, con sujeción a los resultados de los estudios actuariales independientes, contratados por el IESS, que tomarán en cuenta la siniestralidad de los riesgos protegidos, la composición de las prestaciones ofrecidas, y la estructura de edades de los beneficiarios […].
+
+\textbf{Art. 19.- NORMAS BÁSICAS.-} El IESS administrará directamente las funciones de afiliación, recaudación de los aportes y contribuciones al Seguro General Obligatorio y, a través de las direcciones especializadas de cada seguro, administrará las prestaciones que le corresponde otorgar. 
+
+\textbf{Art. 72.- RECURSOS Y ACREDITACIÓN DE RECURSOS.-} El Instituto Ecuatoriano de Seguridad Social recaudará de manera global los aportes obligatorios, personal y patronal, y los demás recursos que, por otras disposiciones legales o contractuales, se destinaren a financiar los recursos administrados por el mismo Instituto, y acreditará al Fondo Presupuestario respectivo los valores correspondientes a las primas respectivas, con sujeción a los porcentajes de aportación señalados para cada seguro. 
+
+\textbf{DISPOSICIÓN TRANSITORIA DECIMOSEXTA.-} TASAS DE APORTACIÓN Y CONTRIBUCIONES OBLIGATORIAS.- Para efectos de la recaudación de los aportes y contribuciones del Seguro General Obligatorio, el Instituto Ecuatoriano de Seguridad Social aplicará las siguientes tasas de aportación, hasta que, con base a los resultados de los estudios actuariales, se recomiende su modificación: […].
+

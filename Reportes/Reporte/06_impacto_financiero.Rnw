@@ -1,0 +1,1906 @@
+%---------------------------------------------------------------------------------------------------
+\chapter[Análisis de la información financiera y contable con sus tendencias]{Análisis de la información financiera y contable con sus tendencias}
+\label{chp_infofinan}
+Para realizar el análisis financiero de este seguro, se consideran los Estados Financieros del Fondo del \Sexpr{REP_seg} cuya fecha de corte es el 31 de diciembre de cada año, por el periodo 2010 al 2018; su análisis se expresa a continuación:
+
+%-------------------------------------------------------------------------------------------------
+\section{Total de activos contables}
+\label{chp_infofinan:activos}
+
+La tabla siguiente presenta la evolución del activo del Fondo del \Sexpr{REP_seg}: 
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Activo del Fondo del \Sexpr{REP_seg}}
+\label{fig:iess_activo_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_activo_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF.
+\\Elaborado: DAIE}
+\end{figure}
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{lrrr}
+\captionsetup{justification=centering}
+\caption{Activo del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año.}
+\label{tab:iess_activo_del_fondo_rtr} \\
+\toprule
+\multirow{2}[0]{*}{Año}& Activo & Incremento  & Incremento\\
+&(USD) & anual (USD) & anual (\%) \\ 
+\midrule
+\endfirsthead
+\toprule
+\multirow{2}[0]{*}{Año}& Activo & Incremento  & Incremento\\
+&(USD) & anual (USD) & anual (\%) \\ 
+\midrule
+\endhead
+\bottomrule \multicolumn{4}{r}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\endlastfoot
+\input{tablas/iess_activo_del_fondo_rtr.tex}
+\end{longtable}
+}
+
+De la tabla \ref{tab:iess_activo_del_fondo_rtr} y la figura \ref{fig:iess_activo_fondo_rtr}, se observa que los activos en el periodo 2010 al 2018, se incrementaron en 255,59\%, esto quiere decir que en promedio su activo creció en USD 87.370.312,30 que en valores relativos representa un 17,57\% de crecimiento anual.
+
+A partir del año 2015 se observa dentro del crecimiento del activo una disminución del mismo, esto se debe a que, a partir del mes de abril del año 2015, se elimina la contribución del estado para el financiamiento de las pensiones por el 40\% de las pensiones como contribución del Estado para el pago de las pensiones y a la aplicación de la Resolución No. C.D. 501 que disminuye los porcentajes de aportación para este Seguro; cuyo aparecimiento se realiza en noviembre de 2015, obligando a acudir a realizar desinversiones para cubrir las necesidades de pago de rentas.
+
+\subsection{Componentes del activo}
+
+En la tabla \ref{tab:iess_analisis_componentes_activo_rtr} se presenta los componentes del activo del Fondo del \Sexpr{REP_seg} por el período 2010 – 2018. Es preciso señalar que el estado financiero se estructura de la siguiente manera.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis de los componentes del activo del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año.}%título tabla
+\label{tab:iess_analisis_componentes_activo_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+Descripción de cuentas & 2010 & 2011 & 2012 & 2013 & 2014 & 2015 & 2016 & 2017 & 2018\\
+\midrule
+\input{tablas/iess_analisis_componentes_activo_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+
+Del análisis se observa que los balances del IESS en el período 2010-2018 han sufrido cambios en los códigos de cuentas, se crean nuevas cuentas, por lo que se presenta su variación y optimización; un ejemplo es en los componentes del activo, donde algunas cuentas fueron afectadas como las siguientes:
+\begin{itemize}[itemsep=0mm, topsep=0pt]
+\item En el caso de la cuenta ``Inversiones'' a partir del 2010 al 2012 en los balances constan como cuentas, inversiones deuda renta fija sector privado (7110), inversiones deuda renta fija Sector Público (7120); y, a partir del 2013 al 2014 es optimizada en una sola cuenta registrada en el plan de cuentas como ``Inversiones'', y, a partir del 2015 al 2018 es registrada en el plan de cuentas como ``Recursos/Administra por El BIESS''. Por lo indicado en la tabla NO se registra a la cuenta como ``Inversiones''.
+\item En la cuenta de la ``Deuda del gobierno'' en el plan de cuentas del 2010 al 2012 se le reconoce como un componente principal del activo, a partir del 2013 al 2018 la ``Deuda del gobierno'' pasa a ser una sub cuenta esta cuenta, es por ello por lo que en la tabla \ref{tab:iess_analisis_componentes_activo_rtr} en el referido periodo, la cuenta ``Deuda del gobierno'' no registra ningún valor a partir del año 2013 al 2018.
+\end{itemize}
+
+\subsection{Análisis horizontal y vertical del activo}
+En las tablas \ref{tab:iess_analisis_horizontal_activo_rtr} y \ref{tab:iess_analisis_vertical_activo_rtr}, se presentan los análisis horizontal y vertical de los componentes del activo del Fondo del \Sexpr{REP_seg} por el período 2010 - 2018:
+
+{\fontsize{8.5}{10}\selectfont
+\begin{longtable}[H]{lrrrrrrrr}
+\captionsetup{justification=centering}
+\caption{Análisis horizontal del activo del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año (porcentaje de crecimiento (\%))}
+\label{tab:iess_analisis_horizontal_activo_rtr}\\
+\toprule
+Descripción de las cuentas & 2011/2010 & 2012/2011 & 2013/2012 & 2014/2013 & 2015/2014 & 2016/2015 & 2017/2016 & 2018/2017 \\
+\midrule
+\endfirsthead
+\toprule
+Descripción de las cuentas & 2011/2010 & 2012/2011 & 2013/2012 & 2014/2013 & 2015/2014 & 2016/2015 & 2017/2016 & 2018/2017 \\
+\midrule
+\endhead
+\bottomrule \multicolumn{9}{r}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\endlastfoot
+\input{tablas/iess_analisis_horizontal_activo_rtr.tex}
+\end{longtable}
+}
+
+
+El crecimiento del Activo es variable en el periodo. Respecto al activo en el año 2010 el crecimiento anual en el 2011 fue de 27,51\%; para el 2012 el crecimiento es de  30,38\% respecto al 2011; el crecimiento en el 2013 fue de  22,98\%, en tanto que para el 2014, el crecimiento anual alcanzó el 22,98\%; para el 2015 fue de 16,10\%; para el 2016 el crecimiento con respecto al 2015 es del 6,17\%, lo mismo ocurre para el año 2017 con un 7,96\%; el resultado para el año 2018  el crecimiento fue un 6,28\% con respecto al 2017; mientras que el crecimiento más alto del periodo fue el 2012-2011.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis vertical del activo del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año (Valores en \%)}
+\label{tab:iess_analisis_vertical_activo_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+Descripción de las cuentas & 2010 (\%) & 2011 (\%) & 2012 (\%) & 2013 (\%) & 2014 (\%) & 2015 (\%) & 2016 (\%) & 2017 (\%) & 2018 (\%) \\
+\midrule
+\input{tablas/iess_analisis_vertical_activo_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+La cuenta Inversiones representan el mayor valor del activo siendo esta para el año 2010 un 85,04\%, en el 2011 alcanza el 82,67\%, en el 2012 alcanza el 90,43\%, en el 2013 alcanza el 89,45\%, en el 2014 alcanza el 92,88\%, en el año 2015 alcanza el 95,15\% siendo el valor más alto de la cuenta representado en el activo; el 2016 alcanza el 95,03\%, en el 2017 alcanza el 94,50\%, en el año 2018 alcanza el 94,70\%.
+
+La Deuda del Gobierno representó hasta el año 2012 la segunda cuenta más representativa del activo con un porcentaje del 12,52\% para el 2010, 14,56\% para el 2011; y, el 5,29\% para el año 2012.
+
+\subsection{Cuentas por cobrar}
+A continuación, se presenta la evolución de las cuentas por cobrar del Fondo del \Sexpr{REP_seg} por el período 2010 - 2018:
+
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Cuentas por cobrar del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año}
+\label{fig:iess_cuentas_cobrar_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_cuentas_cobrar_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF.
+\\Elaborado: DAIE.
+}
+\end{figure}
+
+% \begin{table}[H]
+% \captionsetup{justification=centering}
+% \centering
+% \caption{Cuentas por cobrar del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año}
+% \label{tab:iess_cuentas_cobrar_fondo_rtr}
+% %\scalebox{0.7}{
+% {\fontsize{10}{12}\selectfont
+% %\resizebox{\columnwidth}{!}{%
+% \begin{tabular}{lrrr}
+% \toprule
+% \multirow{2}[0]{*}{Año} & Cuentas por  & Incremento  & Incremento \\
+% & Cobrar (USD)& Anual (USD)& Anual (USD)\\
+% \midrule
+% \input{tablas/iess_cuentas_cobrar_fondo_rtr.tex}
+% \bottomrule
+% \end{tabular}
+% }
+% \caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+%   Elaborado: DAIE.}
+% \end{table}
+
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{lrrr}
+\caption{Cuentas por cobrar del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año}
+\label{tab:iess_cuentas_cobrar_fondo_rtr} \\
+\toprule
+\multirow{2}[0]{*}{Año} & Cuentas por  & Incremento  & Incremento \\
+& Cobrar (USD)& Anual (USD)& Anual (USD)\\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[0]{*}{Año} & Cuentas por  & Incremento  & Incremento \\
+& Cobrar (USD)& Anual (USD)& Anual (USD)\\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{4}{r}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\endlastfoot
+  \input{tablas/iess_cuentas_cobrar_fondo_rtr.tex}
+\end{longtable}
+}
+
+En la gráfica \ref{fig:iess_cuentas_cobrar_fondo_rtr} se observa que las cuentas por cobrar correspondientes al 2018 con respecto al 2010 tienen un comportamiento de altas y bajas en este periodo; con un crecimiento de promedio anual del 8,42\%; siendo el año 2012 el punto más bajo y el año 2011 el punto más alto de la cuenta. El concepto principal que afecta a las variaciones de las cuentas por cobrar es la deuda el gobierno como cuenta principal.
+
+Se puede observar que los balances del IESS en el periodo 2010 a 2018 han sufrido cambios en los códigos de cuentas, creación de cuentas, por lo que se presenta su variación y optimización.
+
+Es necesario aclarar que en la tabla 28, la DAIE unificó los valores en la “Cuenta por cobrar” de los años 2010 a 2012, correspondiente a las “Cuentas por cobrar” y “Deuda del gobierno”; toda vez que esta última a partir del año 2013 fue unificada en el plan de cuentas. Se presenta la información de esta manera, para que exista consistencia en el análisis de las cuentas por cobrar.
+%---------------------------------------------------------------------------------------------------
+\section{Total de pasivos contables}
+A continuación, se presenta la evolución del pasivo del Fondo del \Sexpr{REP_seg} por el período 2010 - 2018:
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Pasivo del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año.}
+\label{tab:iess_pasivos_fondo_rtr}
+%\scalebox{0.7}{
+{\fontsize{10}{12}\selectfont
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrr}
+\toprule
+\multirow{2}[0]{*}{Año}  & Pasivo & Incremento & Incremento \\
+& (USD) & anual (USD) & anual (\%)\\
+\midrule
+\input{tablas/iess_pasivos_fondo_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+
+Se observa que los pasivos correspondientes al 2018 con respecto al 2010 tienen intervalos con mucha variación de año a año en este periodo, crecieron en un 22,70\% como promedio anual; además, el decrecimiento en el año 2015 es el punto más bajo y que a partir del 2016 hasta el año 2018 se aprecia un crecimiento del pasivo; pues el año 2016 aceleró su crecimiento en 2 veces con respecto al año 2015, en el año 2018 sufre una disminución con respecto al año 2017.
+
+El incremento porcentual que los pasivos registraron en el periodo 2018 a 2010; la mayoría de los porcentajes decrecieron, excepto el año 2016 debido a que se inserta la cuenta “depósitos no identificados” y la cuenta “diferencia por neteos”; siendo este, el más alto del periodo con un crecimiento del 208,08\% con respecto al año 2015.
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Pasivo del Fondo del \Sexpr{REP_seg}}
+\label{fig:iess_pasivo_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_pasivo_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF.
+\\Elaborado: DAIE}
+\end{figure}
+
+
+
+\subsection{Componentes del pasivo}
+En la siguiente tabla, se presenta los componentes del pasivo del Fondo del \Sexpr{REP_seg}, por el periodo comprendido entre el 2010 y 2018.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis de los componentes del pasivo del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año.}%título tabla
+\label{tab:iess_componentes_pasivos_fondo_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+Descripción de cuentas & 2010 & 2011 & 2012 & 2013 & 2014 & 2015 & 2016 & 2017 & 2018\\
+\midrule
+\input{tablas/iess_componentes_pasivos_fondo_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+La cuenta de pasivo en el plan de cuentas, dentro del periodo del 2010 al 2018 tenía cinco componentes, por lo que algunas cuentas registran valores desde el año 2012 a 2014. A partir del año 2015 al 2018 los cinco componentes son optimizados en dos cuentas, en “Pasivos corrientes” y “Pasivos no corrientes”.
+
+\subsection{Análisis horizontal y vertical del pasivo}
+
+En las siguientes tablas, se presentan los análisis horizontal y vertical del pasivo del Fondo del \Sexpr{REP_seg}, por el periodo comprendido entre el 2010 y 2018.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis horizontal del pasivo del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año}
+\label{tab:iess_analisis_horizontal_pasivos_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Descripción de cuentas & 2011/2010 (\%) & 2012/2011 (\%) & 2013/2012 (\%) & 2014/2013 (\%) & 2015/2014 (\%) & 2016/2015 (\%) & 2017/2016 (\%) & 2018/2017 (\%) \\
+\midrule
+\input{tablas/iess_analisis_horizontal_pasivos_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+El crecimiento del Pasivo es variable en el periodo. Respecto al pasivo en el año 2010 el crecimiento anual en el 2011 fue de 29,11\%; para el 2012 el decrecimiento es de  -0,12\% respecto al 2011; el decrecimiento en el 2013 fue de -10,83\%, en tanto que para el 2014sufre un crecimiento anual del 3,32\%; para el 2015 sufre un decrecimiento del pasivo del -43,28\%; para el 2016 su crecimiento con respecto al 2015 es del 208,08\%, lo mismo ocurre para el año 2017 con un 22,63\%; el resultado para el año 2018 sufre un decrecimiento con un -27,59\% con respecto al 2017; siendo el crecimiento más alto del periodo del 2015 a 2016 por incremento acelerado de la cuenta “Diferencia por Neteos Acreedor” dentro de los pasivos no corrientes.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis vertical del pasivo del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año (En millones de dólares)}
+\label{tab:iess_analisis_vertical_pasivos_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+Descripción de cuentas & 2010 (\%) & 2011 (\%) & 2012 (\%) & 2013 (\%) & 2014 (\%) & 2015 (\%) & 2016 (\%) & 2017 (\%) & 2018 (\%) \\
+\midrule
+\input{tablas/iess_analisis_vertical_pasivos_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+
+La cuenta ``Prestaciones y Beneficios'' en el año 2010 representan el mayor valor del pasivo para ese año con un 99,25\% del mismo.
+
+Para el periodo 2011 al 2014 la cuenta de “Cuentas por Pagar” representa el valor más alto en referencia al pasivo, siendo este un 87,78\% para el 2011, en el 2012 alcanza el 99,44\%, en el 2013 alcanza el 99,37\%, en el 2014 alcanza el 99,19\%.
+
+La cuenta de Pasivos no Corrientes representa el mayor valor para el periodo 2015 al 2018, alcanzado en el año 2015 el 95,69\%; el 2016 alcanza el 98,02\%, en el 2017 alcanza el 97,72\%, y para el año 2018 alcanza el 95,60\%.
+
+\subsection{Cuentas por pagar}
+
+A continuación, se presenta la evolución de las cuentas por pagar del Fondo del \Sexpr{REP_seg} por el período 2010 – 2018:
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Cuentas por pagar del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año.}%título tabla
+\label{tab:iess_cuentas_pagar_fondo_rtr}
+%\scalebox{0.7}{
+{\fontsize{10}{12}\selectfont
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrr}
+\toprule
+\multirow{2}[0]{*}{Año}  & Cuentas por  & Incremento &Incremento\\
+& pagar (USD) & anual (USD) & anual (\%)\\
+\midrule
+\input{tablas/iess_cuentas_pagar_fondo_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Cuentas por pagar del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año.}
+\label{fig:iess_cuentas_pagar_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_cuentas_pagar_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF.
+\\Elaborado: DAIE.
+}
+\end{figure}
+
+Se observa que las cuentas por pagar correspondientes al 2018 con respecto al 2010 mantienen un crecimiento como promedio anual del 22,56\% en el periodo; en el año 2015 con respecto al año 2014, sufre el decrecimiento más destacado con un -42,90\% y en el año 2016 con respecto al año 2015 sufre el crecimiento más alto con un 208,37\% en este periodo.
+%---------------------------------------------------------------------------------------------------
+\section{Patrimonio}
+Se presenta en la siguiente tabla la evolución del patrimonio de este fondo a diciembre de cada año:
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Patrimonio del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año.}
+\label{tab:iess_patrimonio_fondo_rtr}
+%\scalebox{0.7}{
+{\fontsize{10}{12}\selectfont
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrr}
+\toprule
+\multirow{2}[0]{*}{Año}  & Patrimonio & Incremento & Incremento \\
+&(USD)& anual (USD) & anual (\%)\\
+\midrule
+\input{tablas/iess_patrimonio_fondo_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Patrimonio del Fondo del \Sexpr{REP_seg} (En millones de dólares).}
+\label{fig:iess_patrimonio_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_patrimonio_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF.
+\\Elaborado: DAIE.}
+\end{figure}
+
+Se observa que el patrimonio de este fondo aumentó en 2,65 veces (686,17 millones de dólares) en el periodo 2010 al 2018; sin embargo, en el año 2015 con respecto al 2016 disminuyó 14,14\% por el impacto de la eliminación del 40\% de la contribución del Estado para el pago de las pensiones y la aplicación de la Resolución No. C.D. 501.
+
+Se observa una desaceleración del patrimonio del \Sexpr{REP_seg} durante todo el período 2010 a 2018. Esta desaceleración se acentúa a partir del año 2014, decreciendo precipitadamente a partir del año 2015 con la aplicación de la Resolución No. C.D. 501 y la eliminación de la contribución del 40\% del Estado, siendo el punto más bajo el año 2016.
+
+\subsection{Componentes del patrimonio}
+En la siguiente tabla, se presenta los componentes del patrimonio del Fondo del \Sexpr{REP_seg} por el periodo 2010 - 2018.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis de los componentes del patrimonio del Fondo del \Sexpr{REP_seg} al 31 de diciembre de cada año}
+\label{tab:iess_componentes_patrimonio_fondo_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+Descripción de cuentas & 2010 & 2011 & 2012 & 2013 & 2014 & 2015 & 2016 & 2017 & 2018\\
+\midrule
+\input{tablas/iess_componentes_patrimonio_fondo_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: : Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+\textbf{NOTA:} Cabe mencionar que los balances del IESS en el periodo 2010-2018 ha sufrido cambios en los códigos de cuentas, creación de cuentas, signo negativo en la representación del pasivo, patrimonio e ingresos por las resoluciones emitidas por la Superintendencia de Bancos, en el año 2012 con la Resolución No. 0859 y en el año 2014 con la Resolución No. 0823, siendo este caso los años 2014, 2015, 2017 y 2018 que presentan números negativos en el patrimonio; sin embargo, por razones técnicas se estandarizó la presentación en tablas y gráficas con números positivos.
+
+\subsection{Análisis horizontal y vertical del patrimonio}
+
+En las siguientes tablas, se presentan los análisis horizontal y vertical del patrimonio del Fondo del \Sexpr{REP_seg}
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis horizontal del patrimonio del Fondo del Seguro de \Sexpr{REP_seg} Al 31 de diciembre de cada año (Valores en \%)}
+\label{tab:iess_analisis_horizontal_patrimonio_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Descripción de cuentas & 2011/2010 & 2012/2011 & 2013/2012 & 2014/2013 & 2015/2014 & 2016/2015 & 2017/2016 & 2018/2017 \\
+\midrule
+\input{tablas/iess_analisis_horizontal_patrimonio_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+
+El crecimiento del Patrimonio es variable en el periodo. Respecto al activo en el año 2010 el crecimiento anual en el 2011 fue de 27,42\%; para el 2012 el crecimiento es de  32,17\% respecto al 2011; el crecimiento en el 2013 fue de  24,50\%, en tanto que para el 2014, el crecimiento anual alcanzó el 23,61\%; para el 2015 fue de 17,70\%; para el 2016 presenta un leve crecimiento con respecto al 2015 de 3,56\%, lo mismo ocurre para el año 2017 con un 7,39\%; el resultado para el año 2018 es casi similar al 2017 con un crecimiento de 7,77\%, el punto más alto que presenta en el  periodo 2010-2018 es en el año 2012 con un porcentaje del 32,17\%.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis vertical del patrimonio del Fondo del \Sexpr{REP_seg} Al 31 de diciembre de cada año (Valores en \%)}%título tabla
+\label{tab:iess_analisis_vertical_patrimonio_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+Descripción de cuentas & 2010 & 2011 & 2012 & 2013 & 2014 & 2015 & 2016 & 2017 & 2018   \\
+\midrule
+\input{tablas/iess_analisis_vertical_patrimonio_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+
+La cuenta Fondos Capitalizados representan el mayor valor con un 83,29\% como promedio en referencia a la representación de la cuenta con el Patrimonio para el periodo 2010-2018; siendo este para el año 2010 un porcentaje del 69,89\%, en el 2011 alcanza el 76,02\%, en el 2012 alcanza el 74,85\%, en el 2013 alcanza el 77,86\%, en el 2014 alcanza el 84,54\%, en el año 2015 alcanza el 86,59\%; el 2016 alcanza el 97,17\%, en el 2017 alcanza el 93,41\%, en el año 2018 alcanza el 93,29\%.
+
+A continuación, se procede al análisis de ingresos y egresos, que se encuentran en los Estados de Pérdidas y Ganancias al 31 de diciembre de cada año, por el período 2010 al 2018.
+%---------------------------------------------------------------------------------------------------
+\section{Ingresos}
+A continuación, se presenta la evolución de los ingresos a este fondo:
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis de los Ingresos del Fondo del Seguro de \Sexpr{REP_seg} al 31 de diciembre de cada año}
+\label{tab:iess_ingresos_fondo_rtr}
+%\scalebox{0.7}{
+{\fontsize{10}{12}\selectfont
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrr}
+\toprule
+\multirow{2}[0]{*}{Año}   & Ingresos  & Incremento  & Incremento \\
+& (USD) & anual (USD) & anual (\%) \\
+\midrule
+\input{tablas/iess_ingresos_fondo_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF. \\
+  Elaborado: DAIE.}
+\end{table}
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución de los ingresos del Fondo del \Sexpr{REP_seg}}
+\label{fig:iess_ingresos_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_ingresos_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Balance General Consolidado por Fondos Administrados de los Fondos Especializados - DNGF.
+\\Elaborado: DAIE.}
+\end{figure}
+
+Los ingresos para el periodo del 2018-2010 tienen un crecimiento de promedio anual del 5,54\% siguiendo una tendencia variable en este periodo. Se observa que los ingresos de este fondo disminuyeron a partir del 2016, por el impacto de la eliminación del 40\% de la Contribución del Estado para el pago de las pensiones; siendo el año 2016 el punto con el decrecimiento más destacado con un -44,57\% con respecto al año 2015 y el año 2014 se muestra el valor más alto en el periodo, con un ingreso total de USD 200.040.197,20.
+
+\subsection{Componentes de los ingresos}
+
+Se presenta en la siguiente tabla, la evolución de los componentes de los ingresos del Fondo del \Sexpr{REP_seg}:
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución de los componentes de los ingresos del Fondo del \Sexpr{REP_seg}}%título tabla
+\label{tab:iess_componentes_ingresos_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{p{6cm}rrrrrrrrr}
+\toprule
+Descripción de cuentas & 2010 & 2011 & 2012 & 2013 & 2014 & 2015 & 2016 & 2017 & 2018\\
+\midrule
+\input{tablas/iess_componentes_ingresos_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\end{table}
+\textbf{NOTA:} Cabe mencionar que los balances del IESS en el periodo 2010-2018 ha sufrido cambios en los códigos de cuentas, creación de cuentas, por lo que presenta su variación y optimización.
+
+\subsection{Análisis horizontal y vertical de los ingresos}
+
+En las siguientes tablas, se presentan los análisis horizontal y vertical de los ingresos del Fondo del \Sexpr{REP_seg}:
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis horizontal de los ingresos del Fondo del \Sexpr{REP_seg} (Valores en \%)}%título tabla
+\label{tab:iess_analisis_horizontal_ingresos_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Descripción de cuentas & 2011/2010 & 2012/2011 & 2013/2012 & 2014/2013 & 2015/2014 & 2016/2015 & 2017/2016 & 2018/2017 \\
+\midrule
+\input{tablas/iess_analisis_horizontal_ingresos_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\end{table}
+El crecimiento de los Ingresos del Fondo del \Sexpr{REP_seg} es variable en el periodo 2010 – 2018. Respecto a los ingresos en el año 2010 el crecimiento anual en el 2011 fue de 7,20\%; para el 2012 el crecimiento es de  35,79\% respecto al 2011; el crecimiento en el 2013 fue de  12,85\%, en tanto que para el 2014, el crecimiento anual alcanzó el 13,90\%; para el 2015 sufre un decrecimiento con respecto al 2014 en un -3,26\%; para el 2016 sufre un decrecimiento con respecto al 2015 del -44,57\%, para el año 2017 crece de manera aislada con un 20,24\%; el resultado para el año 2018 presenta un leve un crecimiento de 2,15\% con respecto al 2017; y siendo el año más alto del periodo en sus ingresos se lo puede observar el año 2012.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis vertical de los ingresos del Fondo del \Sexpr{REP_seg} (Valores en \%)}
+\label{tab:iess_analisis_vertical_ingresos_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+Descripción de cuentas& 2010 & 2011 & 2012 & 2013 & 2014 & 2015 & 2016 & 2017 & 2018\\
+\midrule
+\input{tablas/iess_analisis_vertical_ingresos_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\end{table}
+% El rubro Aportes IESS/Ingresos a la Seguridad Social/Ingresos de la operación representa un 68,40\% como promedio anula en referencia a la representación de la cuenta de los Ingresos para el período 2010 - 2018. El año que mayor crecimiento presento es el 2011 con el 90,14\%
+%
+% El rubro Ingresos Financieros/Inversiones para el período 2010 - 2018 es la segunda representación con respecto a los Ingresos; siendo el año 2018 el porcentaje más alto de este período.
+
+\subsection{Ingresos por aportes}
+
+A continuación, se presenta la evolución de los ingresos a este fondo por concepto de aportes Personales, Patronales, Jubilados y Pensionistas.
+
+{\fontsize{9}{11}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+\captionsetup{justification=centering}
+\caption{Evolución de ingresos por aportes del \Sexpr{REP_seg}} \\
+\label{tab:iess_ingresos_aportes_rtr} \\
+\toprule
+\multirow{2}[0]{*}{Año} & Aportes & Aportes & Aportes Jubilados  & Aportes  & Incremento  & Incremento \\
+& personales (USD) & patronales (USD) & y Pensionistas (USD) & Afiliados (USD) & Anual (USD) & Anual (\%) \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[0]{*}{Año} & Aportes & Aportes & Aportes Jubilados  & Aportes  & Incremento  & Incremento \\
+& personales (USD) & patronales (USD) & y Pensionistas (USD) & Afiliados (USD) & Anual (USD) & Anual (\%) \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\Elaborado: DAIE.}
+\endlastfoot
+\input{tablas/iess_ingresos_aportes_rtr.tex}
+\end{longtable}
+}
+
+\textbf{NOTA:} Cabe mencionar que los balances del IESS en el periodo 2010-2018 ha sufrido cambios en los códigos de cuentas, creación de cuentas, por lo que presenta su variación y optimización.
+
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución de los ingresos por aportes del Fondo del \Sexpr{REP_seg}}
+\label{fig:iess_ingresos_aportes_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_ingresos_aportes_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo.
+\\Elaborado: DAIE.}
+\end{figure}
+
+
+Es necesario aclarar que a partir del año 2010 a 2012, no se registran valores en aportes Personales, Patronales, Jubilados y Pensionistas, lo cual se registraron directamente en la cuenta Aportes Afiliados, y, a partir del año 2013 al 2018 se registra los valores por cada aporte.
+
+En los años 2010, 2011 y 2012 se incluía en el rubro APORTES IESS los valores correspondientes a: Contribución del Estado, Recargos y Multas y Otros Ingresos; desde el año 2013 se cambia el plan de cuentas institucional y se dividen los valores correspondientes a aportes.
+
+Los ingresos por aportes aumentaron entre los años 2010 hasta el 2015 con un porcentaje de 93,76\%; sin embargo, a partir del año 2015, se observa una tendencia a la baja, disminuyendo en 1,61 veces (79,06 millones de dólares) del 2015 al 2016 conforme la siguiente gráfica, siendo este problema la disminución de porcentaje de distribución perteneciente a Riesgos del Trabajo del 0,50\% al 0,20\% y el no pago del 40\% del aporte del Estado. El año 2014 presenta el punto más alto con un ingreso de \$ 128,63 millones de dólares americanos.
+
+Entre el año 2010 y el 2015 ya se observa la desaceleración importante de los ingresos por aportes (afiliados, pensionistas) del 27,61\%, desciende al – 0,42\%. En el 2015 se observa un decrecimiento precipitado del – 61,72\%. Al 2017 los aportes crecen en un 12,8\%, pero este crecimiento cae a la tercera parte al 2018 con respecto al 2017.
+
+Por la Resolución C.D. 501, los estados financieros no separan adecuadamente los aportes de jubilados y de la LOD para todos los años. Sin embargo, se puede concluir que el aporte de los afiliados representa al menos el 95\% del total de aportes.
+
+\subsection{Otros ingresos}
+
+Para este análisis, se considera el ingreso más importante que es la contribución del Estado, cuya evolución histórica se presenta a continuación:
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución histórica de la contribución del Estado}
+\label{fig:iess_cont_estado_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_cont_estado_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo.
+\\Elaborado: DAIE.}
+\end{figure}
+
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{lrrr}
+\captionsetup{justification=centering}
+\caption{Evolución histórica de la contribución del Estado en el pago de pensiones de \Sexpr{REP_seg}} \\
+\label{tab:iess_otros_ingresos_rtr} \\
+\toprule
+\multirow{2}[0]{*}{Año}  & Contribución & Pensiones & Participación \\
+& del Estado (USD) & pagadas (USD) & del Estado (\%)\\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[0]{*}{Año}  & Contribución & Pensiones & Participación \\
+& del Estado (USD) & pagadas (USD) & del Estado (\%)\\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{4}{r}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\endlastfoot
+\input{tablas/iess_otros_ingresos_rtr.tex}
+\end{longtable}
+}
+\textbf{NOTA:} En el año 2015, la contribución del Estado del 40\% para el pago de las pensiones fue hasta el mes de marzo
+
+
+Mediante la expedición de la Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar, publicado en el Tercer Suplemento del Registro Oficial Nro. 483 de 20 de abril de 2015, el Estado deja de contribuir con el 40\% del valor de las pensiones, es por ello que los valores en el año 2015 y los años 2016, 2017 y 2018 la contribución del estado sufre una disminución drástica como se observa en la siguiente gráfica y un ingreso cero por parte del Estado para financiar las pensiones.
+%---------------------------------------------------------------------------------------------------
+\section{Gastos}
+En la tabla \ref{tab:iess_gastos_rtr} se presenta la evolución histórica de los gastos del Fondo del \Sexpr{REP_seg}.
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución del Gasto del Fondo del \Sexpr{REP_seg}}
+\label{fig:iess_gastos_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_gastos_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo.
+\\Elaborado: DAIE.}
+\end{figure}
+
+% \begin{table}[H]
+% \captionsetup{justification=centering}
+% \centering
+% \caption{Evolución histórica de los gastos del Fondo del \Sexpr{REP_seg}}
+% \label{tab:iess_gastos_rtr}
+% %\scalebox{0.7}{
+% {\fontsize{10}{12}\selectfont
+% %\resizebox{\columnwidth}{!}{%
+% \begin{tabular}{lrrr}
+% \toprule
+% \centering \multirow{2}[0]{*}{Año}  & Gastos  & Incremento & Incremento\\
+%  & (USD) &Anual (USD)  &  Anual (\%)\\
+% \midrule
+% \input{tablas/iess_gastos_rtr.tex}
+% \bottomrule
+% \end{tabular}
+% }
+% \caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+%   Elaborado: DAIE.}
+% \end{table}
+
+
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{lrrr}
+\caption{Evolución histórica de los gastos del Fondo del \Sexpr{REP_seg}}
+\label{tab:iess_gastos_rtr} \\
+\toprule
+ \multirow{2}[0]{*}{Año}  & Gastos  & Incremento & Incremento\\
+ & (USD) &Anual (USD)  &  Anual (\%)\\
+\midrule
+\endfirsthead
+
+\toprule
+\centering \multirow{2}[0]{*}{Año}  & Gastos  & Incremento & Incremento\\
+ & (USD) &Anual (USD)  &  Anual (\%)\\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{4}{r}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\endlastfoot
+\input{tablas/iess_gastos_rtr.tex}
+\end{longtable}
+}
+
+
+Los gastos para el periodo del 2010 a 2018 tienen un crecimiento de promedio anual del 7,50\%; siguiendo una tendencia de crecimiento estable hasta el año 2015. Se observa que los gastos de este fondo disminuyeron a partir del 2016; siendo el año 2017 el punto con el decrecimiento más destacado con un -6,79\% con respecto al año 2016.
+
+\subsection{Componentes del gasto}
+En la siguiente tabla, se presenta los componentes del gasto del Fondo del \Sexpr{REP_seg}:
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis del componente de la evolución de los gastos del Fondo del \Sexpr{REP_seg}}
+\label{tab:iess_componentes_gastos_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{p{7cm}rrrrrrrrr}
+\toprule
+Descripción de cuentas & 2010 & 2011 & 2012 & 2013 & 2014 & 2015 & 2016 & 2017 & 2018\\
+\midrule
+\input{tablas/iess_componentes_gastos_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+Elaborado: DAIE.}
+\end{table}
+\textbf{Nota:} Cabe mencionar que los balances del IESS en el periodo 2010-2018 ha sufrido cambios en los códigos de cuentas, creación de cuentas, por lo que presenta su variación y optimización.
+
+\subsection{Análisis horizontal y vertical de los componentes del gasto}
+
+En las siguientes tablas, se presentan los análisis horizontal y vertical de los gastos del Fondo del \Sexpr{REP_seg}, por el período 2010 - 2018.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis horizontal de la evolución de los gastos del Fondo del \Sexpr{REP_seg}}%título tabla
+\label{tab:iess_analisis_horizontal_gastos_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Descripción de cuentas (\%) & 2011/2010 & 2012/2011 & 2013/2012 & 2014/2013 & 2015/2014 & 2016/2015 & 2017/2016 & 2018/2017 \\
+\midrule
+\input{tablas/iess_analisis_horizontal_gastos_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\end{table}
+
+El crecimiento de los Gastos del Fondo del \Sexpr{REP_seg} es variable en el periodo 2010 – 2018. Respecto a los Gastos en el año 2010 el crecimiento anual en el 2011 fue de 16,42\%; para el 2012 el crecimiento es de 22,73\% respecto al 2011; el crecimiento en el 2013 fue de 7,51\%, en tanto que para el 2014, el crecimiento anual alcanzó el 13,20\%; para el 2015 con respecto al 2014 alcanzó un 14,36\%; para el 2016 presenta un decrecimiento de -3,45\%, para el año 2017  un -6,79\%; para el año 2018 con un decrecimiento de -3,99\% con respecto al 2017; siendo el año 2012 que presenta el crecimiento más alto, y en el año 2017 punto más bajo en el periodo.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Análisis vertical de la evolución de los gastos del Fondo del \Sexpr{REP_seg}}%título tabla
+\label{tab:iess_analisis_vertical_gastos_rtr}
+%\scalebox{0.7}{
+%{\fontsize{10}{12}\selectfont
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+Descripción de cuentas(\%) & 2010 & 2011 & 2012 & 2013 & 2014 & 2015 & 2016 & 2017 & 2018\\
+\midrule
+\input{tablas/iess_analisis_vertical_gastos_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\end{table}
+La cuenta Egresos Prestacionales representan el mayor valor con un 98,93\% como promedio anual en referencia a la representación de la cuenta con los Egresos  para el periodo 2010-2018; siendo este para el año 2010 un porcentaje del 98,14\%, en el 2011 alcanza el 98,17\%, en el 2012 alcanza el 97,41\%, en el 2013 alcanza el 99,44\%, en el 2014 alcanza el 99,53\%, en el año 2015 alcanza el 99,62\%; el 2016 alcanza el 99,31\%, en el 2017 alcanza el 99,21\%, en el año 2018 alcanza el 99,51\%, siendo la cuenta que ocupa casi en su totalidad la representación de los gastos totales del Fondo del \Sexpr{REP_seg}.
+
+\subsection{Gastos prestacionales por pensiones}
+
+Los egresos por pago de prestaciones (pensiones) de \Sexpr{REP_seg} para el período 2010 a 2018 se muestran a continuación:
+
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{lrrrr}
+\captionsetup{justification=centering}
+\caption{Evolución de los egresos pagados por las prestaciones del Fondo del \Sexpr{REP_seg}}
+\label{tab:iess_gastos_prestacionales_rtr} \\
+\toprule
+\multirow{2}[0]{*}{Año} & Pensiones de      & Pensiones de   & Total de & Tasa de \\
+                        & incapacidad (USD) & Montepío (USD) & prestaciones (USD)& Crecimiento (\%)\\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[0]{*}{Año} & Pensiones de      & Pensiones de   & Total de & Tasa de \\
+                        & incapacidad (USD) & Montepío (USD) & prestaciones (USD)& Crecimiento (\%)\\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{5}{r}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\endlastfoot
+\input{tablas/iess_gastos_prestacionales_rtr.tex}
+\end{longtable}
+}
+
+
+\textbf{Nota:} Para el periodo 2013 - 2018, el concepto de incremento ley 2004-39 y servicios prestacionales u provinciales aparecen sumado al rubro de pensiones.
+
+El crecimiento de los egresos sigue una tendencia positiva desde el 2010 hasta el 2018 con un promedio anual del 6,36\%. El aumento sostenido de estos rubros obedece a su incremento anual atado a la inflación, a la incorporación de nuevos pensionistas y a la variación del alza de sueldos que es la base de cálculo para las nuevas pensiones.
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución de los egresos pagados por las prestaciones del Fondo del \Sexpr{REP_seg}}
+\label{fig:iess_gastos_prestacionales_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_gastos_prestacionales_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo.
+\\Elaborado: DAIE.}
+\end{figure}
+
+Se observa que las pensiones de riesgos del trabajo representan aproximadamente el 61,32\% del total de egresos por pago de prestaciones.
+Entre el 2010 – 2018 el egreso por pago de prestaciones se incrementó en 58,86\%, con un crecimiento promedio anual de 7,36\%.
+
+\subsection{Otros gastos prestacionales}
+
+ El comportamiento de otros gastos prestacionales que entrega este fondo se presenta en la siguiente tabla y gráfica:
+
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{lrrr}
+\captionsetup{justification=centering}
+\caption{Evolución de otros beneficios de  \Sexpr{REP_seg}}
+\label{tab:iess_otros_gastos_prestacionales_rtr} \\
+\toprule
+\multirow{2}[0]{*}{Año}  & 13ra Pensión & 14ta Pensión  & Total \\
+& (USD) & (USD) & (USD) \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[0]{*}{Año}  & 13ra Pensión & 14ta Pensión  & TOTAL \\
+& (USD) & (USD) & (USD) \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{4}{r}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\endlastfoot
+\input{tablas/iess_otros_gastos_prestacionales_rtr.tex}
+\end{longtable}
+}
+
+
+\textbf{NOTA:} Para el periodo 2013 - 2018 los conceptos de decimas tercera y cuarta rentas aparecen sumados al rubro de pensiones de Riesgos del Trabajo y Servicios Prestacionales.
+
+Las décimas tercera y cuarta pensiones crecieron en 2,66 veces entre el 2010 y el 2018.
+
+\subsection{Otros gastos}
+
+Los gastos administrativos se presentan a continuación:
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución Gastos Administración \Sexpr{REP_seg}}%título tabla
+\label{tab:iess_otros_gastos_rtr}
+%\scalebox{0.7}{
+{\fontsize{10}{12}\selectfont
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrr}
+\toprule
+\multirow{2}[0]{*}{Año}  & Gastos  & Incremento  & Incremento \\
+& Administrativos (USD) & Anual (USD) & Anual (\%)\\
+\midrule
+\input{tablas/iess_otros_gastos_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\end{table}
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución de los Gastos de Administración del Fondo del \Sexpr{REP_seg}}
+\label{fig:iess_otros_gatos_fondo_rtr}
+\includegraphics[scale=1]{graficos/iess_otros_gatos_fondo_rtr.png}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo.
+\\Elaborado: DAIE.}
+\end{figure}
+
+Se observa que desde el año 2013 tenemos la cuenta de Gastos Administrativos compuesto por la Contribución a la Administradora y Gasto por Depreciaciones como otros egresos del Fondo del \Sexpr{REP_seg}. Se aprecia que en el año 2013 al 2015 existe una disminución en un promedio del 10,15\%; del 2015 al 2016 se produce un crecimiento precipitado del 81,88\%, siendo este el punto más alto en el periodo por la inclusión de la Contribución a la Administradora, al 2018 existe una caída precipitada en la Contribución a la Administradora en un -47,89\%.
+
+
+
+\section{Ingresos por aportes versus beneficios}
+
+La utilización de valores entregados a los beneficiarios del Seguro de Riesgos del Trabajo en sus diferentes conceptos frente a la utilización de los aportes recibidos en este seguro para solventar las obligaciones se presenta en la tabla \ref{tab:iess_gastos_vs_ingresos_rtr}. El resultado que se obtiene entre la diferencia de los aportes y los gastos corresponde a la parte tanto absoluta como relativa del valor de los aportes que se utilizó en la entrega de las prestaciones.
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{crrrrrr}
+\captionsetup{justification=centering}
+\caption{Evolución de ingresos por aportes versus gastos totales (beneficios prestacionales más gastos de administración) del fondo} \\
+\label{tab:iess_gastos_vs_ingresos_rtr} \\
+\toprule
+Año  & Ingresos por             & Ingresos por                  & Ingresos    &Gastos  &Resultado    & Utilización \\
+     & aportes de      & contribución del & total (USD) & total (USD) & (USD)&  Anual (\%)\\
+
+    & afiliados (USD) &  Estado (USD)     &             &             &      &            \\
+\midrule
+\endfirsthead
+
+\toprule
+Año  & Ingresos por             & Ingresos por                  & Ingresos    &Gastos  &Resultado    & Utilización \\
+     & aportes de      & contribución del & total (USD) & total (USD) & (USD)&  Anual (\%)\\
+
+    & afiliados (USD) &  Estado (USD)     &             &             &      &            \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\endlastfoot
+  \input{tablas/iess_gastos_vs_ingresos_rtr.tex}
+\end{longtable}
+}
+
+Comparando entre los ingresos por aportes y los gastos de los beneficios, y sumados a estos los de administración, se observa que desde el año 2016 al 2018 las prestaciones son superiores a los ingresos causados por la ausencia de la contribución del 40\% del Estado. Por lo que fue necesario acudir a la reserva acumulada de años anteriores. El año 2016 registró el mayor requerimiento con USD 27.411.186 de diferencia entre gastos e ingresos.
+
+\section{Comparación de ingresos por aportes y gastos de administración}
+
+La tabla \ref{tab:iess_gastos_admi_vs_ingresos_afi_rtr} presenta el porcentaje de utilización de los aportes para cubrir gastos de administración a diciembre de cada año. La diferencia entre los ingresos y la contribución para gastos de administración se presenta en la columna resultado y este valor es el que está destinado al pago de prestaciones y acumulación de reservas.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución de ingresos por aportes de los afiliados versus gastos de administración del Fondo del \Sexpr{REP_seg}}%título tabla
+\label{tab:iess_gastos_admi_vs_ingresos_afi_rtr}
+%\scalebox{0.7}{
+{\fontsize{11}{12}\selectfont
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{crrrrrr}
+\toprule
+Año  & Ingresos por    &Gastos           &Resultado & Utilización \\
+     & aportes de      & administrativos & (USD)    &  anual \\
+     & afiliados (USD) & (USD)           &          &    (\%) \\
+
+\midrule
+\input{tablas/iess_gastos_admi_vs_ingresos_afi_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Estados Financieros IESS del Fondo Administrado de Riesgos del Trabajo. \\
+  Elaborado: DAIE.}
+\end{table}
+
+Al realiza la comparación entre los gastos y la contribución a la administradora por aportes, a partir del año 2013 al año 2018 cumple con los requisitos exigidos por la legislación del Seguro Social, evidenciando que se destinaron a gastos de administración menos del 2\% de los aportes de los afiliados a este seguro.
+%---------------------------------------------------------------------------------------------------
+\section{Análisis de las reservas disponibles}
+\label{chap_Intro:resdisp}
+
+Del análisis se observa un crecimiento en cada uno de los años del patrimonio del Seguro General de Riesgos del Trabajo durante el período 2010 – 2018. La reserva al año 2018 alcanzó los 944,55 millones de dólares, lo que implica un crecimiento promedio geométrico del 17,59\% en el periodo referido.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Relación patrimonio gasto y beneficio de pensiones}
+\label{tab:iess_relacion_patrimonio_beneficio_rtr}
+%\scalebox{0.6}{
+{\fontsize{10}{12}\selectfont
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{rrrr}
+\toprule
+\multirow{2}[0]{*}{Año} &Gasto de & \multirow{2}[0]{*}{Patrimonio} & Patrimonio/ \\
+& pensiones & & gasto pensiones \\
+\midrule
+\input{tablas/iess_relacion_patrimonio_beneficio_rtr.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuete: Nóminas de pensionistas del Seguro General de Riesgos del Trabajo, Balance de comprobación del Fondo del \Sexpr{REP_seg}.\\
+Elaborado: DAIE.}
+\end{table}
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Relación patrimonio gasto y beneficio de pensiones.}
+\label{fig:iess_relacion_patrimonio_beneficio_rtr}
+\includegraphics[scale=1]{graficos/iess_relacion_patrimonio_beneficio_rtr.png}
+\caption*{\scriptsize Fuente: Nóminas de pensionistas del Seguro General de Riesgos del Trabajo, Balance de comprobación del Fondo del \Sexpr{REP_seg}.\\
+Elaborado: DAIE.}
+\end{figure}
+El indicador patrimonio - gasto en pensiones revela la cantidad de dólares que tiene en el año de análisis, por cada dólar de obligación por pagar de pensiones. Esta relación siempre es creciente en el periodo 2010 - 2018, que finalmente al año de corte del estudio termina con 14,98 dólares disponibles por cada dólar de obligaciones; para el año 2019 se proyecta que se dispondrá de 17,63 dólares por cada dólar de obligación por pensiones y otros beneficios.
+
+En el año 2015 se emite la Resolución No. C.D. 501 y se elimina la contribución del 40\% de las pensiones mediante la Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar. La emisión de la citada ley y el cambio de las tasas de aportación desaceleran el crecimiento del patrimonio.
+
+La proyección del gasto en pensiones del Seguro General de Riegos del Trabajo para el año 2019 es de 63.236.613 dólares información que se obtiene de la proyección realizada por la Dirección Actuarial, de Investigación y Estadística.
+
+%---------------------------------------------------------------------------------------------------
+\section{Descripción del portafolio de inversiones}
+\label{chp_infofinan:rentablidad}
+
+El artículo 372 de la Constitución de la República del Ecuador establece: ``Los fondos y reservas del seguro universal obligatorio
+serán propios y distintos de los del fisco, y servirán para cumplir de forma adecuada los fines de
+su creación y sus funciones. Ninguna institución del Estado podrá intervenir o disponer de sus
+fondos y reservas, ni menoscabar su patrimonio. Los fondos provisionales (sic) públicos y sus
+inversiones se canalizarán a través de una institución financiera de propiedad del Instituto
+Ecuatoriano de Seguridad Social; su gestión se sujetará a los principios de seguridad, solvencia,
+eficiencia, rentabilidad y al control del órgano competente''.
+
+El artículo 4 del Capítulo V ``Norma para regular las operaciones del Banco del Instituto Ecuatoriano
+de Seguridad Social'' del Título XXVI del Libro I ``Normas Generales para las Instituciones del
+Sistema Financiero''\footnote{La normativa citada se encuentra derogada, pero se
+encontraba vigente en la mayoría del período de valuación.} de la normativa de la Superintendencia
+de Bancos, establece que las inversiones del Fondo del \Sexpr{REP_seg} se invertirán a mediano plazo; es
+decir, a plazos de tres (3) a cinco (5) años, en inversiones: privativas (préstamos
+prendarios y quirografarios), no privativas en renta fija (bonos, bonos
+locales, CETES \footnote{Certificados de tesorería}, certificados de depósito, papel comercial,
+obligaciones, titularizaciones y pólizas de acumulación) y no privativas en renta variable
+(fideicomisos mercantiles: inversión, inmobiliarios y administración).
+
+Para medir la rentabilidad de las inversiones, se utilizarán dos indicadores: el rendimiento
+promedio ponderado y el rendimiento neto. El rendimiento promedio ponderado para cada instrumento
+financiero, con pesos iguales a los saldos en valor nominal, se calcula según el artículo 5.4.1.3
+del Capítulo III ``Manual operativo para valoración a precios de mercado de valores de contenido crediticio y de participación y procedimiento'' del Título III ``De las operaciones del Instituto
+Ecuatoriano de Seguridad Social, del Instituto de Seguridad Social de las Fuerzas Armadas, del
+Instituto de Seguridad Social de la Policía Nacional, del Servicio de Cesantía de la Policía
+Nacional'' del  Libro II ``Normas de control para las entidades del sistema de seguridad
+social''\footnote{La normativa citada se encuentra derogada, pero se encontraba vigente en la
+mayoría del período de valuación.}, en el cual manifiesta que la fórmula para calcular el
+rendimiento efectivo promedio ponderado, $\overline{TIR}$, es:
+\begin{equation}
+\overline{TIR}=\frac{\sum^{K}_{1} TIR_{i}\cdot VP_{i}}{\sum^{k}_{1}VP_{i}},
+\end{equation}
+
+donde: $TIR_{i}$ es el rendimiento efectivo de la operación de contado $i$, $VP_{i}$ es el valor nominal residual o valor parcial de la inversión y $k$ es el número de operaciones a tener en cuenta.
+
+El rendimiento neto de cada fondo se calcula según la metodología expuesta en el informe ``Cálculo
+de rendimientos financieros de los Fondos Previsionales administrados por el Banco del Instituto
+Ecuatoriano de Seguridad Social''. El rendimiento neto, $R_{i}$, del fondo $i$, se estiman a través de la siguiente fórmula:
+
+\begin{equation}
+R_{i}=\frac{\left(I_{i}-Gop_{i}-GAdm_{i}\right)\cdot \left(12/j\right)}{\overline{FA_{i}}}, \qquad para\; \; i=1,2,3,\ldots,9,
+\end{equation}
+
+donde: $I_{t}$ es el ingreso acumulado del fondo $i$, $Gop_{t}$ es el gasto operativo acumulado del fondo $i$, $GAdm_{i}$ es el Gasto administrativo acumulado del fondo $i$ y $\overline{FA_{i}}$ es el fondo administrativo promedio del fondo $i$.
+
+$\overline{FA_{i}}$ hace referencia al promedio del saldo del fondo registrado 
+el último día de cada mes, desde el 31 de diciembre del año 
+anterior hasta el último día del mes considerando para el cálculo. Específicamente, la fórmula  de cálculo es la siguiente:
+\begin{equation}
+\overline{FA_{i}}=\frac{FA_{i,dic}+FA_{i,ene}+FA_{i,feb}+FA_{i,mar}+\cdots+FA_{i,actual}}{j+1},
+\end{equation}
+donde: $j+1$ es el número total de observaciones para ser consideradas en el promedio móvil del fondo administrado.
+
+A partir de la información recopilada de los siguientes documentos: memorando Nro.
+IESS-DNGF-2018-0859-M de 2 de octubre de 2018, oficio Nro. BIESS-OF-GGEN-0315-2019 de fecha 28 de
+marzo de 2019 y el informe técnico BIESS-IF-GADF-002-2018 de fecha 23 de febrero de 2018, se
+presenta la siguiente información respecto a los fondos y reservas del \Sexpr{REP_seg}.
+
+A continuación, se presenta la evolución histórica del valor nominal y su respectivo rendimiento del
+portafolio de inversiones del \Sexpr{REP_seg}, durante el período 2011 a 2018 en la tabla
+\ref{tab:iess_total_inv} y la figura \ref{fig:iess_evol_hist_inver_valor_nominal_rtr}.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+  \begin{center}
+  \caption{Evolución de los Fondos del \Sexpr{REP_seg} administrados por el BIESS}
+  \label{tab:iess_total_inv}
+  \resizebox{\columnwidth}{!}{%
+  \begin{tabular}{rrrrcrrc}
+    \toprule
+ \multicolumn{1}{c}{Año} & \multicolumn{1}{c}{Inversiones} & \multicolumn{1}{c}{Caja} & \multicolumn{1}{c}{Fondo total} & \multicolumn{1}{c}{Rendimiento Promedio}& \multicolumn{1}{c}{Rendimiento} & \multicolumn{1}{c}{Rendimiento Neto} & \multicolumn{1}{c}{Plazo Promedio}  \\
+     &  \multicolumn{1}{c}{(USD)}           &\multicolumn{1}{c}{(USD)} & \multicolumn{1}{c}{administrado (USD)}&  \multicolumn{1}{c}{Ponderado (\%)}    & \multicolumn{1}{c}{Neto (\%)}   & \multicolumn{1}{c}{Real (\%)}  &  \multicolumn{1}{c}{Ponderado (días)}  \\
+    \midrule
+    \input{tablas/iess_total_inv.tex}
+    \bottomrule
+  \end{tabular}
+    }
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS y Dirección de Tesorería - BIESS. \\
+Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución histórica del portafolio total de inversiones del Seguro General de Riesgos del Trabajo con su rendimiento durante el período 2011 a 2018}
+\label{fig:iess_evol_hist_inver_valor_nominal_rtr}
+\includegraphics[scale=1]{graficos/iess_evol_hist_inver_valor_nominal_rtr.png}
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión del BIESS. \\
+Elaborado: DAIE.}
+\end{figure}
+
+
+Se observa como el portafolio total de inversiones del \Sexpr{REP_seg} creció de USD 2.243.628.632 en el
+año 2011 a USD 9.030.558.911 dólares en el año 2015, un crecimiento del 302,5\%, y, decrece a
+diciembre de 2018 a USD 6.051.052.805,39. De igual manera, su tasa de rendimiento promedio ponderada
+creció de 7,24\% en el año 2011 a 8,21\% en el año 2016 para después, estabilizarse en 7,84\% a
+diciembre de 2018.
+
+En cambio, el rendimiento neto más alto se registró en el año 2012 (10,01\%) y las más bajas fueron
+en el 2011 y 2018 (1,88\% y 4,87\%, respectivamente) y su promedio es 6,94\%. La reducción de los
+rendimientos netos del portafolio de inversiones del BIESS, se debió al cumplimiento de la
+programación de desinversión del Fondo del \Sexpr{REP_seg} solicitada por el IESS, en los años 2016 y
+2017, anticipando los ingresos en esos años y reduciendo los ingresos para los años subsiguientes.
+
+Se presenta un breve resumen de la situación actual de las inversiones pertenecientes al \Sexpr{REP_seg},
+a través del BIESS, en Bonos del Estado, titularizaciones, obligaciones, préstamos, certificados de
+tesorería, cupones de interés y papel comercial, mostrando su saldo remanente de la inversión en
+valor nominal, su rendimiento promedio ponderado y su rendimiento promedio ponderado real a 31 de diciembre de 2018.
+\begin{table}[H]
+\captionsetup{justification=centering}
+  \begin{center}
+  \caption{Portafolio de inversiones del Fondo del \Sexpr{REP_seg} administrados del BIESS a corte}
+  \label{tab:iess_INV_Corte}
+  \resizebox{\columnwidth}{!}{%
+  \begin{tabular}{lrccr}
+    \toprule
+ \multicolumn{1}{c}{Instrumento:} & \multicolumn{1}{c}{Saldo Valor}   & \multicolumn{1}{c}{Rendimiento Promedio}  & \multicolumn{1}{c}{Rendimiento Promedio}  & \multicolumn{1}{c}{Plazo Promedio}  \\
+             &  \multicolumn{1}{c}{Nominal (USD)}& \multicolumn{1}{c}{Ponderado (\%)}        & \multicolumn{1}{c}{Ponderado Real (\%)}&\multicolumn{1}{c}{Remanente (días)} \\
+   \midrule
+    \input{tablas/iess_inv_corte.tex}
+    \bottomrule
+  \end{tabular}
+    }
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS y Dirección de Tesorería - BIESS.\\
+Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Rendimiento neto de las inversiones del fondo}
+
+La Dirección de Tesorería del BIESS envió a través del Oficio Nro. BIESS-OF-GGEN-0591-2019 de fecha 17 de junio de 2019 los resultados de la metodología: ``Cálculo de rendimientos financieros de los Fondos Previsionales administrados por el Banco del Instituto Ecuatoriano de Seguridad Social''. Para el cálculo de los rendimientos netos, se utilizaron: los ingresos, gastos operativos y gastos administrativos, el fondo administrado promedio (desde diciembre del año anterior). Además, en la tabla \ref{tab:iess_rend_inv}, se presentan la tasa de rendimiento bruta antes de gastos y la tasa de rendimiento neta, la cual es el rendimiento después de gastos. Los ingresos se detallan más tarde en la tabla \ref{tab:iess_ingre_inv} y los egresos en la tabla \ref{tab:iess_gastos_inv}.
+
+En promedio la diferencia entre rendimientos brutos y netos de este fondo es 1,72\%; es decir, los
+gastos (operativos y administrativos) producen una reducción del 1,72\% del rendimiento bruto y,
+además, presentan una baja volatilidad (desviación estándar igual a 0,53\%). La reducción del
+rendimiento neto en el año 2018 (4,87\%) se debe principalmente a la venta de cupones de interés de
+Bonos del Estado Ecuatoriano. Esta venta anticipada produjo ingresos anticipados por USD 267,17 millones en 2016, USD 194,24 millones en el año 2017 y USD 6,15 millones en el año 2018; en cambio, estas
+desinversiones produjeron que el Fondo del \Sexpr{REP_seg} no percibiera ingresos por USD 9,20 millones
+en el año 2016, USD 203,67 millones de dólares en el año 2017 y USD 188,52 millones en el año 2018.
+En conclusión, la afectación al Fondo del \Sexpr{REP_seg} fue: USD 9,43 millones en el año 2017, USD
+182,37 en el año 2018, mientras que el año 2016 se presentó utilidades por esta venta anticipada por
+USD 257,97 millones (Según la Dirección de Tesorería del BIESS en los insumos enviados en Oficio Nro.
+BIESS-OF-GGEN-0591-2019).
+
+Además, la Dirección de Tesorería del BIESS estima el escenario: si no se hubiese realizado la venta
+anticipada de cupones de interés de los Bonos del Estado en los años: 2016, 2017 y 2018, el
+rendimiento neto en el año 2018 sería 7,48\% (y no 4,87\%), debido que los ingresos habrían
+aumentado en USD 182,37 millones en ese año.
+\begin{table}[H]
+\captionsetup{justification=centering}
+  \begin{center}
+  \caption{Evolución de los ingresos, gastos operativos, gastos administrativos, rendimiento bruto y rendimiento neto del portafolio de inversiones del Fondo del \Sexpr{REP_seg}}
+  \label{tab:iess_rend_inv}
+  \resizebox{\columnwidth}{!}{%
+  \begin{tabular}{lrrrrrr}
+    \toprule
+   \multicolumn{1}{c}{Corte a:} & \multicolumn{1}{c}{Ingresos} & \multicolumn{1}{c}{Gastos}& \multicolumn{1}{c}{Gastos} & \multicolumn{1}{c}{Fondo Administrado} & \multicolumn{1}{c}{Rendimiento}  & \multicolumn{1}{c}{Rendimiento} \\
+            & \multicolumn{1}{c}{(USD)} &\multicolumn{1}{c}{Operativos (USD)} & \multicolumn{1}{c}{Administrativos (USD)} &\multicolumn{1}{c}{Promedio (USD)}     & \multicolumn{1}{c}{Bruto (\%)}   & \multicolumn{1}{c}{Neto (\%)} \\
+    \midrule
+    \input{tablas/iess_rend_inv.tex}
+    \bottomrule
+  \end{tabular}
+    }
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS y Dirección de Tesorería - BIESS. \\
+Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+Los ingresos por inversiones del Fondo del Seguro presentados en la tabla \ref{tab:iess_ingre_inv}
+fueron tomados de los estados de pérdidas y ganancias a corte diciembre de los respectivos años. Los
+ingresos financieros generados por las inversiones de este seguro tuvieron una tendencia a crecer de
+USD 91.603.512,41 a USD 942.806.022,24 entre los años 2011 y 2016, respectivamente, después los
+ingresos decrecieron a USD 443.729.443,16 debido a la venta de cupones antes mencionada. Las
+inversiones en renta fija en el sector público (Bonos del Estado Ecuatoriano) generan mayores ingresos para el
+fondo entre los años 2012 a 2016, siendo su ingreso máximo por este concepto en el año 2016 (USD
+529.462.441,60) y su menor en el año 2018 (USD 30.766.353,79). Desde el año 2017, los ingresos por
+préstamos hipotecarios han generado los mayores ingresos, logrando generar USD 365.358.000,81 en el
+2018 a diferencia de los préstamos quirografarios que solo generaron USD 21.774.495,98 en el mismo
+año.
+\begin{table}[H]
+\captionsetup{justification=centering}
+  \begin{center}
+  \caption{Evolución de los ingresos financieros generados por las inversiones del Fondo del \Sexpr{REP_seg}}
+  \label{tab:iess_ingre_inv}
+  \resizebox{\columnwidth}{!}{%
+  \begin{tabular}{{l}r*{7}{r}}
+    \toprule
+  \multicolumn{1}{c}{Ingresos:} & \multicolumn{1}{c}{2012} & \multicolumn{1}{c}{2013} &\multicolumn{1}{c}{2014} &\multicolumn{1}{c}{2015} &\multicolumn{1}{c}{2016} & \multicolumn{1}{c}{2017}  &  \multicolumn{1}{c}{2018}\\
+    \midrule
+    \input{tablas/iess_ingre_inv.tex}
+    \bottomrule
+  \end{tabular}
+    }
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS y Dirección de Tesorería - BIESS. \\
+Elaborado: DAIE}
+  \end{center}
+\end{table}
+
+Los gastos operativos de las inversiones del portafolio de inversiones del Fondo del \Sexpr{REP_seg} se
+detallan en la tabla \ref{tab:iess_gastos_inv} y se puede apreciar que mantienen una tendencia a
+crecer, puesto a que crecieron de USD 21.244.220,82 a USD 134.594.124,99 entre el año 2012 a 2018,
+respectivamente, lo que significa un crecimiento de 553,36\% en seis (6) años. Los mayores gastos
+operativos corresponden a las provisiones para la valuación de préstamos \footnote{El cálculo de
+provisiones se lo realizó según la Resolución No. JB- 2012-2300 (derogada el 29 de diciembre de 2017),
+remplazada por la Circular SB-IG-2017-0241-C del 29 y de acuerdo con el Capítulo II ´´ Calificación de
+activos de riesgo y constitución de provisiones por parte de las instituciones controladas por la
+Superintendencia de Bancos ´´ del Título IX del Libro I.}, las cuales crecieron de USD
+1.150.988,91 en el 2017 a USD 79.169.458,04 (equivale al 58,82\% de los gastos de las inversiones
+del fondo en 2018) en el 2018, lo que representa un crecimiento de 6.778,39\% en 4 años, esto debido
+al crecimiento del tamaño y de la morosidad de la cartera de créditos hipotecarios. En segundo
+lugar, se encuentran los gastos por reverso de intereses, los cuales en el año 2012 se registraron
+USD 10.996.666,13 y crecieron hasta el año 2015 (USD 85.772.508,65) y después se redujeron a USD
+43.106.025,38 en el año 2018, lo que representa el 32,03\% de los gastos operaciones de las
+inversiones del fondo en el año 2018.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+  \begin{center}
+  \caption{Evolución de los gastos operativos producidos por las inversiones del Fondo del \Sexpr{REP_seg}}
+  \label{tab:iess_gastos_inv}
+  \resizebox{\columnwidth}{!}{%
+  \begin{tabular}{{l}r*{7}{r}}
+    \toprule
+    \multicolumn{1}{c}{Gastos:} &   \multicolumn{1}{c}{2012} &   \multicolumn{1}{c}{2013} &  \multicolumn{1}{c}{2014} &  \multicolumn{1}{c}{2015} &  \multicolumn{1}{c}{2016} &   \multicolumn{1}{c}{2017}&  \multicolumn{1}{c}{2018}\\
+    \midrule
+    \input{tablas/iess_gastos_inv.tex}
+    \bottomrule
+  \end{tabular}
+    }
+  \caption*{\scriptsize Fuente: Dirección de Tesorería - BIESS y Balances Financieros del BIESS. \\
+  Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Inversiones privativas (préstamos)}
+De acuerdo al numeral 1 del artículo 9 del Capítulo V ``Normas para regular las operaciones del
+Banco del Instituto Ecuatoriano de Seguridad Social'' del Libro I ``Normas generales para las
+instituciones del sistema financiero''\footnote{Esta normativa se encuentra derogada, pero estaba
+vigente en la mayoría del período de valuación de este estudio.}, las inversiones privativas
+abarcan:  préstamos hipotecarios; préstamos quirografarios; préstamos prendarios a través de los
+servicios de los montes de piedad; las colocaciones financieras de las cuentas de menores
+beneficiarios del Instituto Ecuatoriano de Seguridad Social; operaciones de descuento de cartera
+hipotecaria; y adquisición, conservación y enajenación de bienes inmuebles, de acuerdo a las
+resoluciones que emita el directorio del Banco del Instituto Ecuatoriano de Seguridad Social.
+
+En la tabla \ref{tab:iess_creditos_inv} y figura \ref{fig:ess_prestamos_quirografarios_rtr}, se muestra la
+evolución histórica de las inversiones en préstamos quirografarios e hipotecarios en valor nominal
+con su respectivo rendimiento y plazo promedio ponderado durante el período 2012 a 2018.
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución histórica de las inversiones en préstamos quirografarios del Seguro General de Riesgos del Trabajo y su rendimiento durante el período 2011 al 2018}
+\label{fig:ess_prestamos_quirografarios_rtr}
+\includegraphics[scale=1]{graficos/iess_prestamos_quirografarios_rtr.png}
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión del BIESS.
+\\Elaborado: DAIE.}
+\end{figure}
+
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+  \begin{center}
+  \caption{Evolución de las inversiones del Fondo del \Sexpr{REP_seg} en préstamos}
+  \label{tab:iess_creditos_inv}
+ % \resizebox{\columnwidth}{!}{%
+  \begin{tabular}{crrrccc}
+    \toprule
+  \multicolumn{1}{c}{Año} &   \multicolumn{1}{c}{Saldo}         &   \multicolumn{1}{c}{Rendimiento Promedio} &   \multicolumn{1}{c}{Rendimiento Promedio} &   \multicolumn{1}{c}{Plazo} \\
+     &   \multicolumn{1}{c}{Valor Nominal (USD)} &   \multicolumn{1}{c}{Ponderado (\%)}        &   \multicolumn{1}{c}{Ponderado Real (\%)} &   \multicolumn{1}{c}{(días)}   \\
+    \midrule
+    \input{tablas/iess_creditos_inv.tex}
+    \bottomrule
+  \end{tabular}
+  %  }
+  \caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS y Balances Financieros del BIESS. \\
+  Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+El portafolio de inversiones del \Sexpr{REP_seg} no registra inversiones en préstamos prendarios. La
+mayoría de sus inversiones en préstamos son hipotecarios (97,4\% en 2018). La evolución del saldo
+remanente invertido en préstamos tuvo una tendencia creciente entre el año 2011 a 2015,
+años en los que su cartera creció de USD 1.505.857.263,78 a USD 4.363.131.162,21, respectivamente.
+Más tarde, en los últimos tres años su cartera decreció a USD 4.010.816.787,88 en el 2018.
+
+En cambio, su tasa de rendimiento ponderada registró su máximo en 2016 (9,25\%) y su mínimo en 2014
+(8,48\%) y su promedio es 8,7\%. Cabe mencionar que este rendimiento es un promedio ponderado por
+tanto no considera los gastos por provisiones que estipulan la autoridad de control para este tipo
+de inversión como se pueden apreciar en la tabla \ref{tab:iess_gastos_inv}; por consiguiente, es
+necesario establecer una metodología para calcular los rendimientos netos de las inversiones en
+préstamos.
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Inversiones no privativas con renta fija en el sector público}
+
+De acuerdo al numeral 1 del artículo 9 del Capítulo V ``Normas para regular las operaciones del
+Banco del Instituto Ecuatoriano de Seguridad Social'' del Libro I ``Normas Generales para las instituciones del Sistema Financiero'', las inversiones no privativas abarcan:  títulos de renta
+fija; títulos de renta variable; valores que se emitan como consecuencia de procesos de
+titularización; inversiones en el exterior dentro de los términos de la Ley de Seguridad Social; y
+fideicomisos mercantiles, cuyo beneficiario sea el Banco del Instituto Ecuatoriano de Seguridad
+Social. (Reformado con Resolución No. JB-2014-3029 de 6 de agosto del 2014).
+
+% --------------------------------------------------------------------------------------------------
+\subsubsection{Inversiones en bonos del Estado}
+
+En la tabla \ref{tab:iess_bonos_hist_inv} y figura \ref{fig:iess_inversiones_bonos_rtr}, se muestra la evolución histórica de las inversiones del \Sexpr{REP_seg} en bonos del Estado, en valor nominal (barras) a diciembre de cada año y sus tasas de rendimiento
+(líneas) durante el período 2011 a 2018. 
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución histórica de las inversiones del Seguro General de Riesgos del Trabajo en Bonos del Estado y su rendimiento durante el período 2011 a 2018.}
+\label{fig:iess_inversiones_bonos_rtr}
+\includegraphics[scale=1]{graficos/iess_inversiones_bonos_rtr.png}
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión del BIESS.
+\\Elaborado: DAIE.}
+\end{figure}
+
+
+\begin{table}[H]
+\centering
+\captionsetup{justification=centering}
+  \caption{Evolución de las inversiones del Fondo del \Sexpr{REP_seg} en bonos del Estado}
+      \label{tab:iess_bonos_hist_inv}
+  {\fontsize{10}{12}\selectfont
+  \begin{tabular}{crccr}
+    \toprule
+   \multicolumn{1}{c}{Año} &   \multicolumn{1}{c}{Saldo}         &   \multicolumn{1}{c}{Rendimiento Promedio} &   \multicolumn{1}{c}{Rendimiento Promedio} &   \multicolumn{1}{c}{Plazo} \\
+     &   \multicolumn{1}{c}{Valor Nominal (USD)} &   \multicolumn{1}{c}{Ponderado (\%)}        &   \multicolumn{1}{c}{Ponderado Real (\%)} &   \multicolumn{1}{c}{(días)}   \\
+    \midrule
+    \input{tablas/iess_bonos_hist_inv.tex}
+    \bottomrule
+  \end{tabular}
+    }
+  \caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS y Balances Financieros del BIESS. \\
+  Elaborado: DAIE.}
+\end{table}
+
+
+Como se puede observar el rendimiento crece en el tiempo,
+de 5,87\% a 7,56\% entre los años 2011 y 2018, respectivamente. En cambio, el saldo en valor nominal
+creció de USD 1.023.404.975,13 en diciembre de 2011 a USD 4.283.912.915,79  en diciembre de 2015,
+crecimiento del 318,6\% entre 2011 a 2015, año en el cual obtuvo su máximo; más tarde, su valor
+nominal disminuyó a USD 1.776.121.661,83 a diciembre de 2018, con un decrecimiento de 32,83\% entre 2015 y 2018.
+
+{\fontsize{9}{10}\selectfont
+\begin{longtable}[H]{lrrccrr}
+\captionsetup{justification=centering}
+\caption{Detalle de las inversiones del Fondo del \Sexpr{REP_seg} en bonos del Estado a 31
+de diciembre de 2018} \\
+\label{tab:iess_bonos_detalle_inv} \\
+\toprule
+   \multicolumn{1}{l}{Referencia del} &   \multicolumn{1}{c}{Valor Nominal} &   \multicolumn{1}{c}{Saldo Valor}  &   \multicolumn{1}{c}{Tasa Cupón} &   \multicolumn{1}{c}{Plazo Remanente} &  \multicolumn{1}{c}{Observación}&\multicolumn{1}{c}{Amortización}\\
+   \multicolumn{1}{c}{Título}  &  \multicolumn{1}{c}{de Compra (USD)}&  \multicolumn{1}{c}{Nominal (USD)}&        \multicolumn{1}{c}{(\%)}  &   \multicolumn{1}{c}{(días)}          &    &          \\
+\midrule
+\endfirsthead
+
+\toprule
+   \multicolumn{1}{l}{Referencia del} &   \multicolumn{1}{c}{Valor Nominal} &   \multicolumn{1}{c}{Saldo Valor}  &   \multicolumn{1}{c}{Tasa Cupón} &   \multicolumn{1}{c}{Plazo Remanente} &  \multicolumn{1}{c}{Observación}&\multicolumn{1}{c}{Amortización}\\
+   \multicolumn{1}{c}{Título}  &  \multicolumn{1}{c}{de Compra (USD)}&  \multicolumn{1}{c}{Nominal (USD)}&        \multicolumn{1}{c}{(\%)}  &   \multicolumn{1}{c}{(días)}          &    &          \\
+\midrule
+\endhead
+\bottomrule \multicolumn{6}{c}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS y Balances Financieros del BIESS. \\
+  Elaborado: DAIE.}
+\endlastfoot
+  \input{tablas/iess_bonos_detalle_inv.tex}
+\end{longtable}
+}
+
+\paragraph{Bonos del Estado por el 40\% del pago de las pensiones}
+
+El artículo 237 de la Ley de Seguridad Social establece: ``FINANCIAMIENTO.- En todos los casos
+comprendidos en este Capítulo, el IESS cubrirá el sesenta por ciento (60\%) de la pensión
+respectiva, y el Estado continuará financiando obligatoriamente el cuarenta por ciento (40\%)
+restante; pero, en cualquier circunstancia, el IESS otorgará la prestación completa''.
+
+Según los acuerdos suscritos entre funcionarios del IESS y del Ministerio de Finanzas el 12 de
+noviembre de 2012 y el 4 diciembre de 2012, se elaboran las actas de consolación provisional de la
+contribución del 40\% para el pago de pensiones y otras contribuciones del Estado al IESS desde el
+mes de octubre de 2012. Se comenzaron a transferir los Bonos del Estado emitidos por el Ministerio de Finanzas por concepto de la cancelación del 40\% de las pensiones y otras contribuciones del Estado al IESS desde el 15 de noviembre de 2012 hasta el 15 de abril de 2015, fecha de la última entrega de Bonos del Estado por este concepto. De esta manera el Estado canceló sus obligaciones por el 40\% de las pensiones y otras contribuciones con el IESS de los meses de octubre de 2012 hasta
+marzo de 2015. En total, se recibieron USD 1.994.219.449,82 en Bonos del Estado y todos estos bonos
+tienen una tasa de rendimiento anual igual a 7,5\% a 12 años. El detalle anual de la adquisición de estos bonos se encuentra en la tabla \ref{tab:iess_repbonos40_hist_inv}.
+
+
+{\fontsize{11}{12}\selectfont
+\begin{longtable}[H]{ccccrr}
+\captionsetup{justification=centering}
+\caption{Detalle de los Bonos del Estado Ecuatoriano recibidos por el pago del 40\% de las pensiones del \Sexpr{REP_seg}} \\
+\label{tab:iess_repbonos40_hist_inv} \\
+\toprule
+ \multicolumn{1}{c}{Fecha de}     &  \multicolumn{1}{c}{Fecha de}         &  \multicolumn{1}{c}{Plazo} &  \multicolumn{1}{c}{Tasa} &  \multicolumn{1}{c}{Monto}   &\multicolumn{1}{c}{Corresponde al pago} \\
+ \multicolumn{1}{c}{colocación}   &  \multicolumn{1}{c}{vencimiento}&  \multicolumn{1}{c}{(Años)} &   \multicolumn{1}{c}{(\%)}&  \multicolumn{1}{c}{(USD)}  &  \multicolumn{1}{c}{de prestaciones} \\
+ \midrule
+\endfirsthead
+\toprule
+ \multicolumn{1}{c}{Fecha de}     &  \multicolumn{1}{c}{Fecha de}         &  \multicolumn{1}{c}{Plazo} &  \multicolumn{1}{c}{Tasa} &  \multicolumn{1}{c}{Monto}   &\multicolumn{1}{c}{Corresponde al pago} \\
+ \multicolumn{1}{c}{colocación}   &  \multicolumn{1}{c}{vencimiento}&  \multicolumn{1}{c}{(Años)} &   \multicolumn{1}{c}{(\%)}&  \multicolumn{1}{c}{(USD)}  &  \multicolumn{1}{c}{de prestaciones} \\
+ \midrule
+\endhead
+\bottomrule \multicolumn{6}{c}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Actas de entrega de Bonos del Estado por el pago del 40\% de las
+  pensiones \\
+   Elaborado: DAIE.}
+\endlastfoot
+ \input{tablas/iess_repbonos40_hist_inv.tex}
+\end{longtable}
+}
+
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Inversiones no privativas con renta fija en el sector privado}
+
+% --------------------------------------------------------------------------------------------------
+\subsubsection{Inversiones en Obligaciones en renta fija}
+
+En la siguiente tabla \ref{tab:iess_obligaciones_hist_inv} se muestra la evolución histórica del
+saldo remanente de las inversiones en obligaciones en renta fija (barras), en valor nominal, y sus
+rendimientos (líneas) durante el período 2011 a 2018.
+
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución histórica de las inversiones del Seguro General de Riesgos del Trabajo en Obligaciones y su rendimiento durante el período 2011 a 2018.}
+\label{fig:iess_inversiones_obligaciones_rtr}
+\includegraphics[scale=1]{graficos/iess_inversiones_obligaciones_rtr.png}
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión del BIESS.
+\\Elaborado: DAIE.}
+\end{figure}
+
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+  \begin{center}
+  \caption{Evolución de las inversiones del Fondo del \Sexpr{REP_seg} en Obligaciones en renta fija}
+  \label{tab:iess_obligaciones_hist_inv}
+  {\fontsize{10}{12}\selectfont
+  \begin{tabular}{crccr}
+    \toprule
+  \multicolumn{1}{c}{Año} &  \multicolumn{1}{c}{Saldo} &  \multicolumn{1}{c}{Rendimiento Promedio} &  \multicolumn{1}{c}{Rendimiento Promedio}&  \multicolumn{1}{c}{Plazo} \\
+  &  \multicolumn{1}{c}{Valor Nominal (USD)} &  \multicolumn{1}{c}{Ponderado (\%)} &  \multicolumn{1}{c}{Ponderado Real (\%)} &  \multicolumn{1}{c}{(días)}\\
+    \midrule
+    \input{tablas/iess_obligaciones_hist_inv.tex}
+    \bottomrule
+  \end{tabular}
+   }
+  \caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS. \\
+  Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+El saldo en valor nominal decreció de USD 13.111.109,98 a diciembre de 2013 a USD 1.107.776,50 en
+diciembre de 2018, año en el cual obtuvo su mínimo valor invertido. Por último, la tasa de
+rendimiento promedio ponderada decreció de 9,09\% en 2011 a 8,31\% en el año 2018. El portafolio de inversiones en obligaciones en renta fija al corte (diciembre de 2018) se muestra
+el valor nominal de compra de estos bonos corporativos, el nombre del emisor, el saldo remanente, la
+tasa de cupón anual y el plazo remanente en días en la tabla \ref{tab:iess_oblig_detalle_inv}.
+\begin{table}[H]
+\captionsetup{justification=centering}
+  \begin{center}
+  \caption{Detalle de las inversiones del Fondo del \Sexpr{REP_seg} en obligaciones en renta fija a 31
+  de diciembre de 2018}
+  \label{tab:iess_oblig_detalle_inv}
+    \resizebox{\columnwidth}{!}{%
+   \begin{tabular}{lrrccl}
+    \toprule
+ \multicolumn{1}{l}{Emisor:} & \multicolumn{1}{c}{Valor Nominal} & \multicolumn{1}{c}{Saldo Valor}    & \multicolumn{1}{c}{Tasa Cupón} & \multicolumn{1}{c}{Plazo Remanente} & \multicolumn{1}{c}{Amortización} \\
+        & \multicolumn{1}{c}{de Compra (USD)} & \multicolumn{1}{c}{Nominal (USD)} & \multicolumn{1}{c}{(\%)}      & \multicolumn{1}{c}{(días)} &   \\
+    \midrule
+    \input{tablas/iess_oblig_detalle_inv.tex}
+    \bottomrule
+  \end{tabular}
+    }
+  \caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS. \\
+  Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+El portafolio de inversiones de este seguro solo se compone de bonos corporativos a renta fija de
+dos empresas en USD 1.107.776,50, lo cual no es representativo para el tamaño del portafolio de
+inversiones de este fondo; pero a la vez estas obligaciones tienen altos rendimientos y no están
+sujetas a la volatilidad generada por la especulación del mercado de valores, como lo que sucede en
+las inversiones de renta variable.
+
+% --------------------------------------------------------------------------------------------------
+\subsubsection{Inversiones en Titularizaciones}
+
+La Titularización es un mecanismo de financiamiento que consiste en: transformar activos o bienes,
+actuales o futuros, en valores negociables en el Mercado de Valores, para obtener liquidez en
+condiciones competitivas de mercado, con la consecuente reducción de los costos financieros.
+
+En la figura \ref{fig:iess_inversiones_titulos_financieros_rtr} y la tabla
+\ref{tab:iess_titularizaciones_hist_inv}, se muestra la evolución histórica del saldo (barras), en
+valor nominal, de las inversiones del Fondo del \Sexpr{REP_seg} en titularizaciones a 31 diciembre de
+cada año y su rendimiento promedio ponderado (líneas) durante el período 2011 a 2018.
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Evolución histórica de las inversiones del Seguro General de Riesgos del Trabajo en títulos financieros y su rendimiento durante el período 2011 a 2018}
+\label{fig:iess_inversiones_titulos_financieros_rtr}
+\includegraphics[scale=1]{graficos/iess_inversiones_titulos_financieros_rtr.png}
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión del BIESS.
+\\Elaborado: DAIE.}
+\end{figure}
+
+{\fontsize{11}{12}\selectfont
+\begin{longtable}[H]{crccrl}
+\captionsetup{justification=centering}
+\caption{Evolución de las inversiones del Fondo del \Sexpr{REP_seg} en titularizaciones en renta fija} \\
+\label{tab:iess_titularizaciones_hist_inv} \\
+\toprule
+ \multicolumn{1}{c}{Año} & \multicolumn{1}{c}{Saldo} & \multicolumn{1}{c}{Rendimiento Promedio} & \multicolumn{1}{c}{Rendimiento  Promedio}& \multicolumn{1}{c}{Plazo} \\
+  & \multicolumn{1}{c}{(USD)} & \multicolumn{1}{c}{Ponderado (\%)} & \multicolumn{1}{c}{Ponderado Real (\%)} & \multicolumn{1}{c}{(días)}\\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{c}{Año} & \multicolumn{1}{c}{Saldo} & \multicolumn{1}{c}{Rendimiento Promedio} & \multicolumn{1}{c}{Rendimiento  Promedio}& \multicolumn{1}{c}{Plazo} \\
+  & \multicolumn{1}{c}{(USD)} & \multicolumn{1}{c}{Ponderado (\%)} & \multicolumn{1}{c}{Ponderado Real (\%)} & \multicolumn{1}{c}{(días)}\\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{6}{c}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS. \\
+  Elaborado: DAIE.}
+\endlastfoot
+  \input{tablas/iess_titularizaciones_hist_inv.tex}
+\end{longtable}
+}
+
+Se puede
+observar como el rendimiento promedio ponderado ha tendido a crecer en el tiempo de 7,69\% en el año
+2011 a 9,11\% en el 2017 y después sufrir un leve decrecimiento en el 2018 (8,41\%). En cambio, el
+saldo en valor nominal decreció de USD 86.408.377,65 en diciembre de 2012 a USD 1.402.651,31 a
+diciembre de 2018, años en los cuales se obtuvieron su máximo y mínimo, respectivamente. Esto implica
+que hubo una reducción de 98,38\% en 6 años
+(entre 2012 a 2018).
+
+A continuación, se muestra el portafolio de inversiones en titularizaciones con fecha corte 31 de
+diciembre de 2018. En la tabla \ref{tab:iess_titularizaciones_hist_inv}, se
+presentan a detalle: el valor nominal de la Titularización, saldo al corte en valor nominal, la tasa
+cupón trimestral y el plazo remanente en días.
+\begin{table}[H]
+\captionsetup{justification=centering}
+  \begin{center}
+  \caption{Detalle del portafolio de las inversiones del Fondo del \Sexpr{REP_seg} en titularizaciones
+  en renta fija a 31 de diciembre de 2018}
+  \label{tab:iess_titularizaciones_hist_inv}
+  \resizebox{\columnwidth}{!}{%
+  \begin{tabular}{lrrcrr}
+    \toprule
+ \multicolumn{1}{c}{Emisor:} & \multicolumn{1}{c}{Valor Nominal}& \multicolumn{1}{c}{Saldo Valor}   & \multicolumn{1}{c}{Tasa Cupón} & \multicolumn{1}{c}{Plazo Remanente} &\multicolumn{1}{c}{Amortización}\\
+        & \multicolumn{1}{c}{de Compra (USD)} & \multicolumn{1}{c}{Nominal (USD)} &  \multicolumn{1}{c}{trimestral (\%)}   & \multicolumn{1}{c}{(días)}&   \\
+    \midrule
+    \input{tablas/iess_titul_detalle_inv.tex}
+    \bottomrule
+  \end{tabular}
+    }
+    \caption*{\scriptsize Fuente: Subgerencia de Banca de Inversión - BIESS. \\
+  Elaborado: DAIE.}
+  \end{center}
+\end{table}
+
+A 31 de diciembre de 2018, se encuentran invertidos USD 1.402.651,31, de los cuales la mayoría
+(75,67\%) se encuentra invertidos en titularizaciones de la empresa EDESA (USD 1.061.340,00) y lo
+restante en la empresa Inmobiliaria Volann; las primeras se vencen en febrero de 2020 y la segunda
+es una inversión a largo plazo a un poco más de 6 años.
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Otras inversiones menores}
+El portafolio del Fondo del \Sexpr{REP_seg} también posee otras inversiones, además de las expuestas
+anteriormente, que se enumeran, a continuación:
+\begin{enumerate}[label=\arabic*.,topsep=0pt,itemsep=0mm,parsep=1ex,partopsep=1ex, topsep=0pt]
+\item Inversiones en Certificados de Tesorería por USD 60.904.987,20 y USD 50.044.114,59 a diciembre
+	de los años 2012 y 2014, respectivamente, a plazos remanentes iguales a 171 y 16 días para
+	el mismo período de tiempo, y rendimiento promedio ponderado igual a 3\% y 1,27\% para los años citados.
+
+\item Inversiones en Papeles Comerciales por USD 1.200.000 a plazos de 249 días a 31 de diciembre de
+	2014 con rendimiento promedio ponderado igual a 6,48\% y rendimiento promedio ponderado real igual 2,71\%.
+
+\item Reportos por USD 117.000 a plazo de 68 días y rendimiento promedio ponderado igual a 6,76\% a 31 de diciembre de 2014.
+\end{enumerate}
+
+
+\clearpage
+%---------------------------------------------------------------------------------------------------
+\section{Causas de desfinanciamiento}
+\label{chp_infofinan:causasdesf}
+
+En esta Sección se presentan las principales causas de desfinanciamiento que sufrió el fondo
+desde el año 2015 hasta la fecha de corte del estudio, las cuales se describen a continuación:
+\begin{enumerate}[itemsep=0mm, topsep=0pt]
+\itemsep0em 
+\item La ausencia de la contribución del Estado al IESS por el financiamiento del 40\% de las
+	pensiones y otras obligaciones que tiene el Estado con IESS desde abril de 2015 es USD 103.820.449,26 (USD 89.204.779,20 capital y USD 14.615.670,06 lucro cesante).
+
+\item El cambio de las tasas de aportación de la Resolución No. C.D. 261 por la Resolución No. C.D. 501 produjo la ausencia de ingresos por USD 328.086.572,97 (USD 289.383.284,65 capital y	38.703.288,32 lucro cesante).
+
+\item Desinversiones realizadas desde junio de 2017 hasta la fecha corte del estudio (USD 25.000.000,00) a la fecha de corte no permitieron que el fondo reciba USD 1.035.057,65 (lucro cesante).
+\end{enumerate}
+
+En consecuencia, el impacto de estas causas de desfinanciamiento sobre el patrimonio de este fondo
+se resume en la tabla \ref{tab:impacto_patrimonio}:
+
+{\fontsize{11}{12}\selectfont
+\begin{longtable}[H]{lrrr}
+\captionsetup{justification=centering}
+\caption{Impacto de la ausencia de la contribución del Estado, Resolución No. C.D. 501 y desinversiones}
+\label{tab:impacto_patrimonio}\\
+\toprule
+\multicolumn{1}{l}{Concepto:}   & \multicolumn{1}{c}{Capital} & \multicolumn{1}{c}{Lucro Cesante}     & \multicolumn{1}{c}{Total}  \\
+\midrule
+\endfirsthead
+
+\toprule
+\multicolumn{1}{l}{Concepto:}   & \multicolumn{1}{c}{Capital} & \multicolumn{1}{c}{Lucro Cesante}     & \multicolumn{1}{c}{Total}  \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{4}{c}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: DAIE y Balances Financieros del IESS. \\
+            Elaborado: DAIE.}
+\endlastfoot
+  \input{tablas/iess_RTR_total.tex}
+\end{longtable}
+}
+
+De no producirse los decrementos antes citados, el patrimonio a 31 de diciembre de 2018 debería
+incrementarse en USD 432.942.079,88. Es decir, el patrimonio a la fecha de corte sería USD
+1.377.494.545,68 (USD 944.552.465,80 + USD 432.942.079,88) y no USD 944.552.465,80 que se
+registra en la actualidad. En las subsecciones \ref{chp_resultados:sin_contrib_estado}, \ref{chp_resultados:cd_501} y
+\ref{tab:iess_RTR_desinvertido_anual}, se muestran a detalle los valores no percibidos por Fondo del \Sexpr{REP_seg} que se encuentran en la tabla
+\ref{tab:impacto_patrimonio}.
+
+\subsection{Ausencia de la contribución del Estado }
+\label{chp_resultados:sin_contrib_estado}
+
+De los resultados presentados en la tabla \ref{tab:sin_contrib_estado}, se obtiene que el Estado, por el período abril de 2015 a 31 de diciembre de 2018, dejó de contribuir al \Sexpr{REP_seg} para el financiamiento de las pensiones y las decimotercera y decimocuarta pensiones,  un monto de USD 89.204.779,20; estas desinversiones se presentan principalmente por la ausencia de liquidez.
+
+%Si confrontamos este valor frente al valor del PIB a 31 de diciembre de 2018, de USD 108.398.058.000, representa el 5,47\%.
+\begin{landscape}
+\vspace*{\fill}
+Se calcula que el Fondo del \Sexpr{REP_seg} dejó de percibir USD 14.615.670,06 como rendimiento de estos
+valores, dando un total de  USD 103.820.449,26.  El cálculo se realiza aplicando la determinación de intereses en concordancia con el criterio de crecimiento de las reservas en los seguros, por el tiempo transcurrido desde abril de 2015 a la fecha de corte, período en el cual los intereses se suman al capital al final de cada año y este forma un nuevo capital que sirve para determinar el nuevo valor del lucro cesante.
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+{\fontsize{9}{11}\selectfont
+\caption{Ausencia de la contribución del Estado}
+\label{tab:sin_contrib_estado}
+ \resizebox{\columnwidth}{!}{%
+\begin{tabular}{crrcrrrrrr}
+\toprule
+\multicolumn{1}{c}{Año} & \multicolumn{1}{c}{Valor de las}    & \multicolumn{1}{c}{Contribución del
+Estado} & \multicolumn{1}{c}{Rendimiento}   & \multicolumn{1}{c}{Rendimiento}     &
+\multicolumn{1}{c}{Rendimiento} & \multicolumn{1}{c}{Rendimiento}                   &
+\multicolumn{1}{c}{Rendimiento} & \multicolumn{1}{c}{Intereses}   & \multicolumn{1}{c}{Capital} \\
+&  \multicolumn{1}{c}{pensiones (USD)}& \multicolumn{1}{c}{no percibida (USD)}      &
+\multicolumn{1}{c}{anual neto (\%)}& \multicolumn{1}{c}{acumulado 2015 (USD)}
+&\multicolumn{1}{c}{acumulado 2016 (USD)}     &\multicolumn{1}{c}{acumulado 2017 (USD)}         &
+\multicolumn{1}{c}{acumulado 2018 (USD)}& \multicolumn{1}{c}{total (USD)}& \multicolumn{1}{c}{+ Intereses (USD)}\\
+\midrule
+    \input{tablas/iess_RTR_Desfi_Aportes_Estado.tex}
+\midrule
+\end{tabular}
+}
+}
+\caption*{\scriptsize Fuente: Dirección del Sistema de Pensiones. \\
+            Elaborado: DAIE.\\}
+\end{table}
+\vfill 
+%\vspace*{\fill}
+\end{landscape}
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Cambio de primas de aportes por aplicación de la Resolución No. C.D. 501}
+\label{chp_resultados:cd_501}
+
+La Resolución No. C.D. 501 de 13 de noviembre de 2015, cambió las
+tasas de aportación del  \Sexpr{REP_seg}, trayendo como
+consecuencia la disminución de los ingresos por aportes desde noviembre de 2015 hasta la fecha corte
+del estudio. Las tasas de aportación de las Resoluciones No. C.D. 261 y 501 se
+pueden apreciar en la siguiente tabla \ref{tab:compara_primas} y figura \ref{fig:comp_tas_apo}.
+
+\begin{figure}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Comparación de las primas de aportes: Resolución C.D. 501 – Resolución C.D. 261}
+\label{fig:comp_tas_apo}
+\includegraphics[scale=1]{graficos/iess_grafico_tasas_aporte.png}
+\caption*{\scriptsize Fuente: Resoluciones No. C.D.501 y No. C.D.261 \\
+            Elaborado: DAIE.}
+\end{figure}
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+{\fontsize{8}{10}\selectfont
+\centering
+\caption{Comparación de las primas de aportes}
+\label{tab:compara_primas}
+\begin{tabular}{crr}
+\toprule
+\multicolumn{1}{c}{Año} & \multicolumn{1}{c}{Tasa de Aportación}  &\multicolumn{1}{c}{Tasa de Aportación}  \\
+\multicolumn{1}{c}{Año} & \multicolumn{1}{c}{Resolución C.D. 501} & \multicolumn{1}{c}{Resolución C.D. 261} \\
+\midrule
+2012 & - & 0,55\% \\
+2013 & - & 0,55\% \\
+2014 & - & 0,55\% \\
+2015 & 0,20\% & 0,55\% \\
+2016 & 0,20\% & 0,55\% \\
+2017 & 0,20\% & 0,55\% \\
+2018 & 0,20\% & 0,55\% \\
+2019 & 0,20\% & 0,55\% \\
+2020 & 0,20\% & 0,55\% \\
+2021* & 0,20\% & 0,55\% \\
+2022* & 0,20\% & 0,55\% \\
+\bottomrule
+\end{tabular}
+\caption*{
+\scriptsize Fuente: Resoluciones CD.501 y CD.261 \\
+            Elaborado: DAIE.\\
+                        }
+\caption*{
+\scriptsize Nota:*Tasa aportación del sector privado;\\
+            en cambio, 0,38\% al público, a partir del 2021.\\
+}
+}
+\end{table}
+
+\begin{landscape}
+\vspace*{\fill}
+\begin{table}[H]
+\captionsetup{justification=centering}
+\begin{center}
+{\fontsize{8.5}{11}\selectfont
+\caption{Impacto de la aplicación de la Resolución No. C.D. 501}
+\label{tab:impacto_CD501}
+  \resizebox{\columnwidth}{!}{%
+\begin{tabular}{crrrrrrrrrr}
+\toprule
+\multicolumn{1}{c}{Año} & \multicolumn{1}{c}{Aportes C.D. 261} & \multicolumn{1}{c}{Aportes}       &
+\multicolumn{1}{c}{Diferencia} & \multicolumn{1}{c}{Rendimiento} & \multicolumn{1}{c}{Rendimiento}
+& \multicolumn{1}{c}{Rendimiento }       & \multicolumn{1}{c}{Rendimiento}         &
+\multicolumn{1}{c}{Rendimiento}   & \multicolumn{1}{c}{Intereses} & \multicolumn{1}{c}{Capital} \\
+&  \multicolumn{1}{c}{C.D. 261 (USD)} & \multicolumn{1}{c}{C.D. 501 (USD)}&
+\multicolumn{1}{c}{(USD)}   & \multicolumn{1}{c}{neto (\%)}    & \multicolumn{1}{c}{acumulado 2015
+(USD)}& \multicolumn{1}{c}{acumulado 2016 (USD)}& \multicolumn{1}{c}{acumulado 2017 (USD)}&
+\multicolumn{1}{c}{acumulado 2018 (USD)} & \multicolumn{1}{c}{Total (USD)}& \multicolumn{1}{c}{+
+Interés (USD)} \\
+\midrule
+   \input{tablas/iess_RTR_Desfi_CD501.tex}
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: Dirección del Sistema de Pensiones. \\
+            Elaborado: DAIE.}
+}
+\end{center}
+\end{table}
+\vspace*{\fill}
+\end{landscape}
+
+La diferencia de aporte entre las dos resoluciones considerando la masa salarial y los ingresos recibidos por aportaciones al  \Sexpr{REP_seg} para los diferentes años en análisis se presenta en la tabla \ref{tab:impacto_CD501}. Se observa que el fondo dejó de percibir como aportes USD 289.383.284,65, lo que produjo un lucro cesante de USD 38.703.288,32 a 31 de diciembre de 2018, obteniéndose un perjuicio total de USD 328.086.572,97.
+%---------------------------------------------------------------------------------------------------
+\subsection{Desinversiones del portafolio de inversiones del Fondo del \Sexpr{REP_seg}}
+\label{tab:iess_RTR_desinvertido_anual}
+
+Para el cálculo del lucro cesante (ingresos financieros dejados de percibir por las
+desinversiones), se emplearon las tasas de rendimiento neto según la metodología
+``Cálculo de rendimientos financieros de los Fondos Previsionales administrados por el
+Banco del Instituto Ecuatoriano de Seguridad Social´´ de la tabla \ref{tab:iess_rend_inv}. En primer
+lugar, se utiliza una tasa equivalente mensual, puesto que las tasas de rendimiento netas $i_t$ son
+anuales al momento $t$ de la inversión.
+\begin{equation}
+  j_t = ( 1 + i_t )^{\frac{1}{12}} - 1
+\end{equation}
+
+Una vez obtenida la tasa de rendimiento equivalente mensual, se procede a calcular el lucro cesante,
+suponiendo la capitalización mensual de los intereses a una tasa de rendimiento neta del
+correspondiente año de la siguiente manera:
+\begin{equation}
+L_t = \left( \prod\limits_{k = 1}^{12} \left( 1 + j_{t + \frac{k}{12}} \right) - 1 \right) C_t
+\end{equation}
+
+Donde $L_t$ es el lucro cesante de la desinversión/inversión correspondiente tiempo $t$, medido en
+años, $C_t$ es el capital desinvertido/invertido en el tiempo $t$; y $j_t$ es la  tasa de
+rendimiento correspondiente al momento $t$. Las desinversiones del Fondo del \Sexpr{REP_seg} y el cálculo de su lucro cesante, con la metodología expuesta anteriormente, se presentan en la tabla \ref{tab:iess_RTR_desinversiones}.
+
+
+
+{\fontsize{9}{10}\selectfont
+\begin{longtable}[H]{crccrrr}
+\captionsetup{justification=centering}
+\caption{Monto desinvertido del Fondo del \Sexpr{REP_seg} y su lucro cesante} \\
+\label{tab:iess_RTR_desinversiones} \\
+\toprule
+\multicolumn{1}{c}{Fecha} & \multicolumn{1}{c}{Capital desinvertido} &
+\multicolumn{1}{c}{Rentabilidad} & \multicolumn{1}{c}{Rentabilidad neta} &
+\multicolumn{1}{c}{Factor} & \multicolumn{1}{c}{Lucro cesante} &  \multicolumn{1}{c}{Lucro Cesante +
+capital} \\
+& \multicolumn{1}{c}{(USD)} & \multicolumn{1}{c}{neta (\%)}          &
+\multicolumn{1}{c}{mensualizada (\%)} &       &    \multicolumn{1}{c}{(USD)}      &
+\multicolumn{1}{c}{desinvertido (USD)} \\
+\midrule
+\endfirsthead
+\toprule
+\multicolumn{1}{c}{Fecha} & \multicolumn{1}{c}{Capital desinvertido} &
+\multicolumn{1}{c}{Rentabilidad} & \multicolumn{1}{c}{Rentabilidad neta} &
+\multicolumn{1}{c}{Factor} & \multicolumn{1}{c}{Lucro cesante} &  \multicolumn{1}{c}{Lucro Cesante +
+capital} \\
+& \multicolumn{1}{c}{(USD)} & \multicolumn{1}{c}{neta (\%)}          &
+\multicolumn{1}{c}{mensualizada (\%)} &       &    \multicolumn{1}{c}{(USD)}      &
+\multicolumn{1}{c}{desinvertido (USD)} \\
+\midrule
+\endhead
+\bottomrule \multicolumn{4}{c}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Fuente: Dirección de Tesorería-BIESS. \\
+  Elaborado: DAIE.}
+\endlastfoot
+ \input{tablas/iess_RTR_desinversiones.tex}
+\end{longtable}
+}
+
+Aplicando las suposiciones y metodología expuesta, se concluye que el monto desinvertido entre junio de 2017 a diciembre de 2018 es USD 25.000.000,00 , por lo cual el IESS dejó de percibir USD
+1.035.057,65 por lucro cesante por las desinversiones; es decir, que el perjuicio al Fondo del
+ \Sexpr{REP_seg} por desinversiones es USD 26.035.057,65 en total. En la siguiente tabla, se registra
+el capital desinvertido, lucro cesante y su total desinvertido para los años 2017 y 2018 (ver tabla \ref{tab:iess_RTR_desinvertido_anual}).
+\begin{table}[H]
+\captionsetup{justification=centering}
+\begin{center}
+  \caption{Capital desinvertido anual del Fondo del \Sexpr{REP_seg} y su lucro cesante}
+  \label{tab:iess_RTR_desinvertido_anual}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{crrr}
+\toprule
+\multirow{1}{*}{Año} & \multicolumn{1}{c}{Capital}        & \multicolumn{1}{c}{Lucro Cesante} &\multicolumn{1}{c}{Lucro Cesante +}\\
+                    &\multicolumn{1}{c}{desinvertido (USD)}& \multicolumn{1}{c}{(USD)}          &\multicolumn{1}{c}{capital desinvertido (USD)}\\
+\midrule
+ \input{tablas/iess_RTR_desinversiones_anual.tex}
+ \bottomrule
+\end{tabular}
+}
+  \caption*{\scriptsize Fuente: Dirección de Tesorería-BIESS y DAIE. \\
+  Elaborado: DAIE.}
+  \end{center}
+\end{table}

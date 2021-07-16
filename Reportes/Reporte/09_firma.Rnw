@@ -1,0 +1,21 @@
+\chapter{ Firma de responsabilidad}
+\label{chp_firma}
+
+Quito, 08 de mayo de 2020 \\
+
+\vspace{2cm}
+Atentamente,
+\vspace{1cm}
+%--------------------------------------------------------------------------------------------------
+% \begin{figure}[H]
+% 	\centering
+% 		\includegraphics[scale=0.28]{graficos/firma_actuario.png}
+% 	\end{figure}
+% \vspace{-2cm}
+\begin{center}
+\textbf{Ramiro Vega Suárez, Lic.} \\
+Director Actuarial, de Investigación y Estadística \\
+Instituto Ecuatoriano de Seguridad Social
+\end{center}
+
+

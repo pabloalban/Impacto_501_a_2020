@@ -1,0 +1,13 @@
+\chapter{Objetivo }
+\label{chp_objetivos}
+
+\section{Objetivo general}
+Verificar que la aplicación de la Resolución Nro. C.D. 501 de 13 de noviembre de 2015 con su reforma contenida en la Resolución Nro. C.D. 515 de 30 de marzo de 2016, sea coherente con los principios de la seguridad social, constantes en el artículo 368 de la Constitución de la República: sostenibilidad, eficiencia, celeridad y transparencia en los fondos de Invalidez, Vejez y Muerte (IVM), General de Salud Individual y Familiar y General de Riesgos del Trabajo.
+
+\section{Objetivos específicos}
+
+\begin{itemize}
+	\item Realizar un análisis comparativo entre las Resoluciones Nro. C.D. 261 de 26 de mayo de 2009 y C.D. 501 de 13 de noviembre de 2015 con su reforma en la Resolución Nro. C.D. 515 de 30 de marzo de 2016; y, establecer la evolución real de los fondos del Seguro de Invalidez, Vejez y Muerte, Seguro General de Salud Individual y Familiar y Seguro General de Riesgos del Trabajo.
+	\item	Evaluar el impacto del cambio de primas en el Seguro de Invalidez, Vejez y Muerte, Seguro General de Salud Individual y Familiar y Seguro General de Riesgos del Trabajo.
+\end{itemize}
+

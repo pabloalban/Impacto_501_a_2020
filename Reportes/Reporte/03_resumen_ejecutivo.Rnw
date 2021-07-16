@@ -1,0 +1,48 @@
+%---------------------------------------------------------------------------------------------------
+\chapter{Resumen ejecutivo}
+\label{chp_res_ejec}
+
+%---------------------------------------------------------------------------------------------------
+
+La Resolución No. C.D. 501 de fecha 13 de noviembre de 2015 establece las nuevas tasas de aportación al IESS del Seguro General Obligatorio y Voluntario, según consta en su artículo 1, el cual reemplazó a la Resolución No. C.D. 261 de fecha 27 de mayo de 2009.
+%---------------------------------------------------------------------------------------------------
+
+%Del estudio actuarial se concluyen los siguientes resultados:
+Los resultados del estudio actuarial son: 
+
+\begin{table}[H]
+\captionsetup{justification=centering}
+\centering
+\caption{Presentación de resultados, en términos actuariales \\ al 31 de diciembre de 2058}
+\begin{tabular}{@{}lrr@{}}
+\toprule
+\multicolumn{3}{c}{Seguro de Invalidez, Vejez y Muerte} \\ \midrule
+Resolución:       & \multicolumn{1}{c}{Aportes (USD)}      & Superávit/Déficit (USD)    \\ \midrule
+No. C.D. 261      & \Sexpr{REP$ing_apo_afi_1_ivm} & \Sexpr{REP$bal_act_esc_1_ivm} \\
+No. C.D. 501      & \Sexpr{REP$ing_apo_afi_2_ivm} & \Sexpr{REP$bal_act_esc_2_ivm}  \\ \midrule
+\multicolumn{3}{c}{\Sexpr{REP$seg_sal}} \\ \midrule
+Resolución:       & \multicolumn{1}{c}{Aportes (USD)}      & Superávit/Déficit (USD)    \\ \midrule
+No. C.D. 261      & \Sexpr{REP$ing_apo_afi_1_sal} & \Sexpr{REP$bal_act_esc_1_sal} \\
+No. C.D. 501      & \Sexpr{REP$ing_apo_afi_2_sal} & \Sexpr{REP$bal_act_esc_2_sal}  \\ \midrule
+\multicolumn{3}{c}{Seguro de Riesgos del Trabajo}       \\ \midrule
+Resolución:       & \multicolumn{1}{c}{Aportes (USD)}      & Superávit/Déficit (USD)    \\ \midrule
+No. C.D. 261      & \Sexpr{REP$ing_apo_afi_1} & \Sexpr{REP$bal_act_esc_1}\\
+No. C.D. 501      & \Sexpr{REP$ing_apo_afi_2} & \Sexpr{REP$bal_act_esc_2} \\ \bottomrule
+\end{tabular}
+\end{table}
+
+Entre las principales conclusiones, se tiene:
+\begin{enumerate}[itemsep=1mm, topsep=0pt]
+
+\item Durante el período abril 2015 a diciembre de 2018, el \Sexpr{REP$seg_rt} ha dejado de percibir USD 289.383.284,65 por la reducción del aporte patronal del 0,55\% a 0,2\%; tasa establecida en la Resolución No. C.D. 501. Esta reducción de ingresos produjo un lucro cesante de USD 38.703.288,32; por lo cual el perjuicio a este seguro ascendería a USD 328.086.572,97.
+
+\item De abril 2015 a diciembre de 2018, el \Sexpr{REP$seg_ivm} dejo de percibir USD 2.197.056.726,00 por la reducción del aporte a este. Por lo cual, esta reducción de ingresos produjo un lucro cesante de USD 278.381.929,50; por lo cual el perjuicio total a este seguro ascendería a USD 2.475.438.655,70.
+
+\item La aplicación de la \Sexpr{REP$CD501} significará que el \Sexpr{REP$seg_rt} no reciba USD \Sexpr{REP$dif_ing_apo_afi}, en términos actuariales, por concepto de aporte patronal en los próximos 40 años. Esta falta de ingreso producirá una reducción del superávit actuarial de este seguro de USD \Sexpr{REP$bal_act_esc_1} a USD \Sexpr{REP$bal_act_esc_2} al 31 de diciembre de 2058.
+
+\item La emisión de la \Sexpr{REP$CD501} significará que el \Sexpr{REP$seg_ivm} reciba, adicionalmente, USD \Sexpr{REP$dif_ing_apo_afi_ivm}, en términos actuariales, por concepto de aporte en los próximos 40 años. Este incremento de ingresos se debe al aumento de la tasa de aportación de 9,74\% (\Sexpr{REP$CD261}) a 10,46\% (\Sexpr{REP$CD501}), a partir del año 2021 en adelante. Los ingresos extras producirán una reducción del déficit actuarial de este seguro de USD \Sexpr{REP$bal_act_esc_1_ivm} a USD \Sexpr{REP$bal_act_esc_2_ivm} al 31 de diciembre de 2058.
+
+\item La implementación de la tasa de la \Sexpr{REP$CD501}, significará que el \Sexpr{REP$seg_sal} deje de percibir USD \Sexpr{REP$dif_ing_apo_afi_sal}, en términos actuariales, por concepto de aporte en los próximos 40 años. Esta reducción en la aportación se debe a la reducción de la tasa de aportación de 5,71\% (\Sexpr{REP$CD261}) a 5,16\% (\Sexpr{REP$CD501}), a partir del año 2021 en adelante. La reducción de ingresos producirá un crecimiento del déficit actuarial de este seguro de USD \Sexpr{REP$bal_act_esc_1_sal} a USD \Sexpr{REP$bal_act_esc_2_sal} al 31 de diciembre de 2058.
+
+\end{enumerate}
+
