@@ -47,11 +47,11 @@
 <<cap034, child='033_objetivos.Rnw'>>=
 @
 
-<<cap035, child='04_tasas_aportacion.Rnw'>>=
-@
-
-<<cap036, child='041_comparacion_primas.Rnw'>>=
-@
+% <<cap035, child='04_tasas_aportacion.Rnw'>>=
+% @
+% 
+% <<cap036, child='041_comparacion_primas.Rnw'>>=
+% @
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%5  
@@ -64,20 +64,20 @@
 % <<cap06, child='06_impacto_financiero.Rnw'>>=
 % @
 %   
-<<cap07, child='07_impacto_actuarial.Rnw'>>=
-@
-<<cap08, child='08_presentacion_resultados.Rnw'>>=
-@
+% <<cap07, child='07_impacto_actuarial.Rnw'>>=
+% @
+% <<cap08, child='08_presentacion_resultados.Rnw'>>=
+% @
 
 %  
-<<cap09, child='09_conclusion.Rnw'>>=
-@
+% <<cap09, child='09_conclusion.Rnw'>>=
+% @
 
 %<<cap10, child='042_recomendaciones.Rnw'>>=
 %@
 
-<<cap11, child='08_responsabilidad.Rnw'>>=
-@
+% <<cap11, child='08_responsabilidad.Rnw'>>=
+% @
 
 %<<cap12, child='09_firma.Rnw'>>=
 %@

@@ -24,27 +24,21 @@ parametros$opsys <- Sys.info()[[1]]
 parametros$hostname <- Sys.info()[[4]]
 
 #Servidor de datos
-if ( parametros$hostname %in% c( 'huracan', 'tornado', 'lahar', 'empty', 'tifon','LEOVELEZ',
-                                 'temu-Ubuntu', 'ava.local','DESKTOP-380U0P5', 'DESKTOP-N4VHK6P', 'HP-USER') ) {
+if ( parametros$hostname %in% c( 'DESKTOP-380U0P5','PCUIOMTDAI3L35') ) {
   # global Risko
-  parametros$data_server <- '/mnt/data/IESS/IESS_estudio/'
+ # parametros$data_server <- '/mnt/data/IESS/IESS_estudio/'
 
   if ( parametros$hostname %in% c('DESKTOP-380U0P5') ){ # máquina teletrabajo
     parametros$data_server <- 'D:/Impacto501/'
   }
-  if( parametros$hostname %in% c('DESKTOP-N4VHK6P') ){
-    parametros$data_server <- paste0( getwd(), '/Impacto501/' )
-  }
-  if( parametros$hostname %in% c('HP-USER') ){
-    parametros$data_server <- paste0( getwd(), '/Impacto501/' )
+  if( parametros$hostname %in% c('PCUIOMTDAI3L35') ){
+    parametros$data_server <- paste0( getwd(), '/' )
   }
   else {
   # global: se necesita acceso a la red de la direccion actuarial para conectarse
-  parametros$data_server <- 'C:/Users/Jendry Toapanta/Downloads/RESPALDO/501vs261/Impacto501/'
+  parametros$data_server <- paste0( getwd(), '/' )
   }
 }
-# local
-# parametros$data_server <- paste0( getwd(), '/' )
 
 
 # Directorio de trabajo
@@ -133,3 +127,4 @@ parametros$graf_ext <- '.png'
 message( paste( rep('-', 100 ), collapse = '' ) )
 rm( list = ls()[ !( ls() %in% 'parametros' ) ]  )
 gc()
+
