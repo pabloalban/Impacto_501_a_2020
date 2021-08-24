@@ -9,7 +9,7 @@ tam_letra_lab <- rel( 0.9 )
 tipo_letra <- "Times New Roman"
 base_family_2 <- "sans"
 graf_point_size <- 0.15
-graf_line_size <- 0.6
+graf_line_size <- 1
 graf_grid_major_size <- 0.25
 graf_grid_minor_size <- 0.20
 #graf_width <- 11
@@ -28,6 +28,11 @@ text_color <- "black"
 custom_base_size <- 10
 plot_margin <- c( 2, 2, 2, 2 )
 panel_border_size <- rel( 0.8 )
+strip_text_size <- rel( 0.8 )
+
+
+plot_margin <- c( 2, 2, 2, 2 )
+panel_border_size <- rel( 2 )
 strip_text_size <- rel( 0.8 )
 
 # Estilo sin leyenda -------------------------------------------------------------------------------
@@ -60,7 +65,7 @@ plt_theme <- theme( text = element_text( color = 'black' ),
                                                 size = tam_letra, family = tipo_letra, 
                                                 vjust = 0, hjust = 0.5 ),
                     plot.margin = unit( plot_margin, "mm" ),
-                    legend.box.margin = margin(-20,0,-6,0)
+                    legend.box.margin = margin(-6,0,-6,0)
 )
 
 # Estilo con leyenda -------------------------------------------------------------------------------

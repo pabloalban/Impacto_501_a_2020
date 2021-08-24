@@ -84,6 +84,8 @@ parametros$resultados <- paste0( parametros$work_dir, 'Resultados/' )
 parametros$reporte_seguro <- paste0( parametros$work_dir, 'Reportes/Reporte', 
                                      parametros$seguro, '/' )
 
+parametros$reporte_genera <- paste0( parametros$work_dir, 'R/600_reporte_latex.R' )
+
 # if ( parametros$seguro == 'IVM' ) {
 #   parametros$calculo_balance <- paste0( parametros$work_dir, 'R/ivm/303_calculo_escenarios_balance_ivm.R' )
 #   parametros$reporte_genera <- paste0( parametros$work_dir, 'R/ivm/600_reporte_latex_ivm.R' )
