@@ -1,3 +1,4 @@
+message( paste( rep('-', 100 ), collapse = '' ) )
 message( '\tLectura de las tasas de aportes' )
 
 # Carga de datos -----------------------------------------------------------------------------------
